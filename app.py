@@ -151,60 +151,69 @@ def recommend_resources(predicted_risk, df_nodes, max_off, max_bar, active_event
             
     return plan, explainers, off_deployed, bar_deployed
 
-# --- 4. TOP APP BAR (Structured Layout) ---
-current_time = datetime.datetime.now()
+# --- 4. MODALS (DIALOGS) ---
+@st.dialog("🚨 Log Tactical Incident")
+def log_event_dialog():
+    ev_type = st.selectbox("Event Type", ["Sudden Breakdown", "Planned Event"])
+    ev_severity = st.selectbox("Severity", ["Low", "Medium", "High"])
+    loc_choice = st.selectbox("Location (Type to search)", options=location_options, index=45)
+    ev_node = location_options.index(loc_choice)
+    ev_closure = st.checkbox("Requires Road Closure", value=True)
+    
+    current_time = datetime.datetime.now()
+    if ev_type == "Planned Event":
+        ev_date = st.date_input("Date") 
+        ev_time = st.time_input("Time") 
+        scheduled_dt = datetime.datetime.combine(ev_date, ev_time)
+    else:
+        scheduled_dt = current_time
+        
+    ev_desc = st.text_input("Notes", f"{ev_severity} severity incident")
+    
+    if st.button("Broadcast Incident", type="primary", use_container_width=True):
+        if ev_type == "Planned Event" and scheduled_dt < (current_time - datetime.timedelta(minutes=1)):
+            st.error("⏳ Invalid Time: Cannot schedule an event in the past.")
+        else:
+            mag = 0.8 if ev_severity == "High" else 0.55 if ev_severity == "Medium" else 0.25
+            if ev_closure: mag = min(mag * 1.2, 1.0)
+            st.session_state.active_events.append({
+                "id": len(st.session_state.active_events) + int(time.time()), 
+                "node_id": ev_node, "location_name": loc_choice.split(' (ID:')[0], 
+                "type": ev_type, "desc": ev_desc, "magnitude": mag, 
+                "closure": 1.0 if ev_closure else 0.0, "scheduled_time": scheduled_dt,
+                "is_active_now": scheduled_dt <= datetime.datetime.now()
+            })
+            st.toast(f"✅ {ev_type} logged successfully! AI cascading risk...", icon="✅")
+            time.sleep(0.6)
+            st.rerun()
 
-# Split top bar into Title (left) and Command Block (right)
+@st.dialog("🚑 Deploy Emergency Services")
+def emergency_ops_dialog():
+    ops_type = st.radio("Dispatch Unit", ["🚑 Ambulance", "🚒 Fire Engine"], horizontal=True)
+    ops_loc = st.selectbox("Search Drop Zone (Type to search)", options=location_options)
+    st.text_input("Situation Notes", placeholder="E.g., 2 casualties, trapped.")
+    if st.button("Dispatch Unit", type="primary", use_container_width=True):
+        agency = "Nearest Hospital" if "Ambulance" in ops_type else "Nearest Fire Station"
+        st.toast(f"🚨 {agency} broadcasted to {ops_loc.split(' (ID:')[0]} successfully!", icon="✅")
+        time.sleep(0.6)
+        st.rerun()
+
+# --- 5. TOP APP BAR ---
+current_time = datetime.datetime.now()
 col_title, col_controls = st.columns([7.5, 2.5])
 
 with col_title:
     st.markdown(f"<h2>Bangalore Tactical Command <br><span style='font-size: 1.2rem; color: gray;'>{current_time.strftime('%I:%M %p - %A, %b %d')}</span></h2>", unsafe_allow_html=True)
 
 with col_controls:
-    # 1. TOP ROW: Big Log Event Button
-    with st.popover("🚨 Log Event", use_container_width=True):
-        ev_type = st.selectbox("Event Type", ["Sudden Breakdown", "Planned Event"])
-        ev_severity = st.selectbox("Severity", ["Low", "Medium", "High"])
-        loc_choice = st.selectbox("Location (Type to search)", options=location_options, index=45)
-        ev_node = location_options.index(loc_choice)
-        ev_closure = st.checkbox("Requires Road Closure", value=True)
-        
-        if ev_type == "Planned Event":
-            ev_date = st.date_input("Date") 
-            ev_time = st.time_input("Time") 
-            scheduled_dt = datetime.datetime.combine(ev_date, ev_time)
-        else:
-            scheduled_dt = current_time
-            
-        ev_desc = st.text_input("Notes", f"{ev_severity} severity incident")
-        if st.button("Broadcast Incident", type="primary", use_container_width=True):
-            if ev_type == "Planned Event" and scheduled_dt < (current_time - datetime.timedelta(minutes=1)):
-                st.error("⏳ Invalid Time: Cannot schedule an event in the past.")
-            else:
-                mag = 0.8 if ev_severity == "High" else 0.55 if ev_severity == "Medium" else 0.25
-                if ev_closure: mag = min(mag * 1.2, 1.0)
-                st.session_state.active_events.append({
-                    "id": len(st.session_state.active_events) + int(time.time()), 
-                    "node_id": ev_node, "location_name": loc_choice.split(' (ID:')[0], 
-                    "type": ev_type, "desc": ev_desc, "magnitude": mag, 
-                    "closure": 1.0 if ev_closure else 0.0, "scheduled_time": scheduled_dt,
-                    "is_active_now": scheduled_dt <= datetime.datetime.now()
-                })
-                st.toast(f"✅ {ev_type} logged successfully! AI cascading risk...", icon="✅")
-                time.sleep(0.6)
-                st.rerun()
+    if st.button("🚨 Log Event", type="primary", use_container_width=True):
+        log_event_dialog()
 
-    # 2. BOTTOM ROW: Split evenly between Ops and Settings
     sub_col_ops, sub_col_set = st.columns(2)
     
     with sub_col_ops:
-        with st.popover("🚑 Ops", use_container_width=True):
-            ops_type = st.radio("Dispatch Unit", ["🚑 Ambulance", "🚒 Fire Engine"], horizontal=True)
-            ops_loc = st.selectbox("Search Drop Zone (Type to search)", options=location_options, key="ops_loc")
-            ops_note = st.text_input("Situation Notes", placeholder="E.g., 2 casualties, trapped.")
-            if st.button("Dispatch Unit", type="primary", use_container_width=True):
-                agency = "Nearest Hospital" if "Ambulance" in ops_type else "Nearest Fire Station"
-                st.toast(f"🚨 {agency} broadcasted to {ops_loc.split(' (ID:')[0]} successfully!", icon="✅")
+        if st.button("🚑 Ops", use_container_width=True):
+            emergency_ops_dialog()
                 
     with sub_col_set:
         with st.popover("⚙️ Settings", use_container_width=True):
@@ -225,7 +234,7 @@ with col_controls:
 
 st.divider()
 
-# --- 5. DATA PREPARATION & CALCULATIONS ---
+# --- 6. DATA PREPARATION & CALCULATIONS ---
 for ev in st.session_state.active_events:
     ev['is_active_now'] = ev['scheduled_time'] <= datetime.datetime.now()
 
@@ -235,7 +244,6 @@ future_events = [e for e in st.session_state.active_events if not e['is_active_n
 amb_max_off = int(max_officers * 0.40) 
 tac_max_off = max_officers - amb_max_off 
 
-# Pre-calculate Live Engine Data for the Global Map
 if live_events:
     x_live = torch.zeros((1, 753, 12, 2), dtype=torch.float32)
     for ev in live_events:
@@ -252,7 +260,7 @@ else:
     amb_plan, amb_off, amb_bar = calculate_ambient_patrols(df_hist, amb_max_off, max_barricades)
     map_risk = (h_vector * 0.15) + baseline_risk
 
-# --- 6. KPIs ROW ---
+# --- 7. KPIs ROW ---
 kpi1, kpi2, kpi3 = st.columns(3)
 with kpi1:
     st.metric("City Nodes Overseen", "753", delta=f"{city_context}", delta_color="off" if baseline_risk == 0 else "inverse")
@@ -262,11 +270,10 @@ with kpi3:
     st.metric("Future Planned Events", f"{len(future_events)}")
 st.divider()
 
-# --- 7. TACTICAL OVERVIEW (MAP & INCIDENT COMMAND) ---
+# --- 8. TACTICAL OVERVIEW (MAP & INCIDENT COMMAND) ---
 col_map, col_resolve = st.columns([7, 3])
 
 with col_map:
-    # PYDECK WEBGL HEATMAP
     df_map = df_nodes.copy()
     df_map['risk'] = map_risk
     df_active = df_map[df_map['risk'] > 0.05]
@@ -309,7 +316,7 @@ with col_resolve:
 
 st.divider()
 
-# --- 8. MAIN ENGINE (NOWCAST vs FORECAST LEDGERS) ---
+# --- 9. MAIN ENGINE (NOWCAST vs FORECAST LEDGERS) ---
 col_now, col_fore = st.columns(2)
 
 with col_now:
@@ -321,7 +328,7 @@ with col_now:
             
         st.markdown("### Historical Baseline Postings (H-Vector)")
         if amb_plan:
-            st.dataframe(pd.DataFrame(amb_plan).style.format({"Historical Risk": "{:.1%}"}).background_gradient(subset=['Historical Risk'], cmap='Blues', vmin=0.0, vmax=1.0), use_container_width=True, hide_index=True)
+            st.dataframe(pd.DataFrame(amb_plan).style.format({"Historical Risk": "{:.1%}"}).background_gradient(subset=['Historical Risk'], cmap='Blues', vmin=0.0, vmax=1.0), width='stretch', hide_index=True)
     else:
         with st.container(border=True):
             st.write(f"**Tactical Reserve Deployed:** {off_live} / {tac_max_off} Officers | {bar_live} / {max_barricades} Barricades")
@@ -347,7 +354,7 @@ with col_now:
 
         if plan_live:
             st.markdown("### STGNN Deployment Grid")
-            st.dataframe(pd.DataFrame(plan_live).style.format({"Cascade Risk": "{:.1%}"}).background_gradient(subset=['Cascade Risk'], cmap='Reds', vmin=0.1, vmax=0.5), use_container_width=True, hide_index=True)
+            st.dataframe(pd.DataFrame(plan_live).style.format({"Cascade Risk": "{:.1%}"}).background_gradient(subset=['Cascade Risk'], cmap='Reds', vmin=0.1, vmax=0.5), width='stretch', hide_index=True)
 
 with col_fore:
     st.subheader("🔮 FORECAST: Predictive Radar")
@@ -388,4 +395,4 @@ with col_fore:
             
             if plan_fut:
                 st.markdown("### Projected Deployment Grid")
-                st.dataframe(pd.DataFrame(plan_fut).style.format({"Cascade Risk": "{:.1%}"}).background_gradient(subset=['Cascade Risk'], cmap='Oranges', vmin=0.1, vmax=0.5), use_container_width=True, hide_index=True)
+                st.dataframe(pd.DataFrame(plan_fut).style.format({"Cascade Risk": "{:.1%}"}).background_gradient(subset=['Cascade Risk'], cmap='Oranges', vmin=0.1, vmax=0.5), width='stretch', hide_index=True)
