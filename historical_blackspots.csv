@@ -1,0 +1,754 @@
+spatial_node_id,police_station,address,total_historical_impact,H_Score
+98.0,Byatarayanapura,"Mysore Road, AR Compound, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)",57.95,1.0
+73.0,Halasuru Gate,"Nrupatunga Road, Police Corner Junction, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)",45.105000000000004,0.7783433994823123
+18.0,Sadashivanagar,"Sankey Road, RV Layout, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)",30.93,0.5337359792924935
+144.0,Jalahalli,"Outer Ring Road, CQAE Staff Quarters, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",28.17,0.48610871440897324
+95.0,Kamakshipalya,"Magadi Main Road, BM Shankarappa Industrial Estate, Sunkadakatte, Bengaluru, Karnataka. Pin-560091 (India)",25.875,0.44650560828300256
+38.0,Yeshwanthpura,"Outer Ring Road, RNS Shriniketan, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",24.200000000000003,0.41760138050043144
+96.0,Yeshwanthpura,"CV Raman Road, Samvidhana Circle, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)",23.310000000000002,0.4022433132010354
+135.0,Sadashivanagar,"Bellary Road, Enayathulla Mehkri Circle, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560080 (India)",21.92,0.37825711820534946
+204.0,K.R. Pura,"MBT Road, Zero Tolerance Junction, KR Puram, Bengaluru, Karnataka. Pin-560049 (India)",20.295,0.35021570319240725
+0.0,Peenya,"Mumbai Bengaluru Highway, Vivekanand Nagar, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",19.875,0.3429680759275237
+89.0,Madiwala,"Madiwala Underpass, Madiwala Junction, Madivala, Bengaluru, Karnataka. Pin-560068 (India)",18.87,0.32562553925798104
+267.0,Halasuru Gate,"Palace Road, Gandhi Nagar 1, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)",17.535,0.302588438308887
+228.0,K.R. Pura,"MBT Road, Devasandra Junction, KR Puram, Bengaluru, Karnataka. Pin-560036 (India)",15.355,0.264969801553063
+248.0,Chamarajpet,"Bhashyam Main Road, Sangolli Rayanna Circle, Majestic, Bengaluru, Karnataka. Pin-560023 (India)",13.015,0.22459016393442624
+218.0,Whitefield,"Varthur Main Road, KSRTC Travel House Junction, Varthur Marattahalli, Bengaluru, Karnataka. Pin-560087 (India)",12.875,0.22217428817946505
+137.0,Yelahanka,"Bellary Road, Concorde Mayfair, KHB Colony, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)",12.73,0.21967213114754097
+70.0,Ashok Nagar,"Museum Road, Shoolay Circle, Nilsandra, Bengaluru, Karnataka. Pin-560025 (India)",12.685,0.2188955996548749
+143.0,Wilson Garden,"Hosur Road, Arepanahalli, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)",11.45,0.1975841242450388
+82.0,Kodigehalli,"Bellary Road, Vinayaka Nagar, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)",10.825000000000001,0.18679896462467646
+54.0,Jayanagara,"46th Cross Road, Sri Aurobindo Circle, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)",9.39,0.16203623813632442
+59.0,Jnanabharathi,"Dr Rajkumar Puniya Bhoomi Road, Block 12, BDA Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",9.225,0.15918895599654873
+42.0,Byatarayanapura,"Mysore Road, BWSSB Quarters, Nayandahalli, Bengaluru, Karnataka. Pin-560039 (India)",9.15,0.15789473684210525
+39.0,Yeshwanthpura,"1st Main Road, Sri Vijayamaruthi Circle, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",8.75,0.15099223468507333
+35.0,Peenya,"Mumbai Bengaluru Highway, Nelakadirena Halli, T Dasarahalli, Bengaluru, Karnataka. Pin-560073 (India)",8.35,0.14408973252804141
+393.0,Halasuru Gate,"Lal Bagh Road, Ashirwadam Junction, Shanti Nagar, Bengaluru, Karnataka. Pin-560027 (India)",8.075000000000001,0.13934426229508198
+178.0,Sadashivanagar,"CV Raman Road, Indian Institute of Science, Bengaluru, Karnataka. Pin-560012 (India)",7.995,0.13796376186367557
+291.0,HAL Old Airport,"Outer Ring Road, Soulspace Paradigm, Marathahalli Village, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)",7.86,0.1356341673856773
+484.0,Yeshwanthpura,"Mumbai Bengaluru Highway, Aparna Elina, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",7.75,0.13373597929249353
+253.0,Jnanabharathi,"Kengeri Main Road, Kengunte Circle, Bengaluru, Karnataka. Pin-560056 (India)",7.725,0.13330457290767903
+11.0,Byatarayanapura,"Dr Rajkumar Puniya Bhoomi Road, Radiant Karel, Pantarapalya, Bengaluru, Karnataka. Pin-560039 (India)",7.3500000000000005,0.12683347713546161
+173.0,Peenya,"Mumbai Bengaluru Highway, Peenya 2nd Block, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",7.3500000000000005,0.12683347713546161
+44.0,High ground,"Palace Road, Dharmaprakash Devarao Shivaram Ubhayaker Circle, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)",6.98,0.12044866264020708
+100.0,Electronic City,"Hosur Road, Pramuk Aqua Heights, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",6.74,0.11630716134598792
+546.0,High ground,"Millers Road, Chavundaraya Circle, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)",6.625,0.11432269197584123
+372.0,High ground,"Kumar Krupa Road, Dr Hardikar Circle, Seshadripuram, Bengaluru, Karnataka. Pin-560001 (India)",6.55,0.11302847282139775
+563.0,V.V.Puram (C.Pet),"KR Main Road, Bangalore Medical College & Research Institute, Bengaluru, Karnataka. Pin-560002 (India)",5.99,0.10336496980155306
+332.0,Jeevanbheemanagar,"Old Madras Road, New Binnamangla, Indiranagar, Bengaluru, Karnataka. Pin-560038 (India)",5.8500000000000005,0.1009490940465919
+337.0,Peenya,"Mumbai Bengaluru Highway, Sobha Garrison, Nagasandra, Bengaluru, Karnataka. Pin-560073 (India)",5.775,0.0996548748921484
+175.0,HAL Old Airport,"Kadubeesanahalli Underpass, Kadubisanahalli Junction, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)",5.71,0.09853321829163071
+147.0,Kamakshipalya,"1st Cross Road, Sumnahalli Junction, Kamakshipalya, Bengaluru, Karnataka. Pin-560091 (India)",5.5,0.09490940465918896
+117.0,Electronic City,"Hosur Road, Channakeshava Nagar, Singasandra, Bengaluru, Karnataka. Pin-560100 (India)",5.45,0.09404659188955997
+257.0,Banashankari,"Dr Rajkumar Puniya Bhoomi Road, Sterling Terraces Apartment, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)",5.3500000000000005,0.09232096635030199
+245.0,Banaswadi,"MBT Road, Dargah Mohalla, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)",5.3500000000000005,0.09232096635030199
+232.0,Mahadevapura,"Old Madras Road, Royal Heritage, Pai Layout, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)",5.25,0.09059534081104399
+209.0,Upparpet,"Kempegowda Road, Kempe Gowda Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)",5.25,0.09059534081104399
+754.0,Jalahalli,"Rajatha Bhavana Road, Gangamma Circle, Ramchandrapura, Bengaluru, Karnataka. Pin-560013 (India)",5.2,0.08973252804141502
+212.0,Chamarajpet,"Dr TCM Royan Road, Cottonpet Circle, Cottonpete, Bengaluru, Karnataka. Pin-560053 (India)",5.1,0.08800690250215702
+587.0,Upparpet,"Kempegowda Road, Kempegowda Extension, Chickpete, Bengaluru, Karnataka. Pin-560009 (India)",5.0,0.08628127696289904
+354.0,Wilson Garden,"KH Road, BMTC Junction, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)",4.8999999999999995,0.08455565142364106
+241.0,Mahadevapura,"Whitefield Main Road, Gopal Krishna Nagar, Kadugodi Plantation, Bengaluru, Karnataka. Pin-560067 (India)",4.675,0.08067299396031061
+25.0,Cubbon Park,"Infantry Road, Income Tax Colony, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)",4.65,0.08024158757549613
+67.0,Chamarajpet,"Mysore Road, Sirsi Circle, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)",4.6000000000000005,0.07937877480586714
+199.0,Sadashivanagar,"Sri Ramana Maharshi Road, Achaiah Chetty Layout, RMV Extension, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560080 (India)",4.565,0.07877480586712683
+414.0,Sheshadripuram,"Old Mysore Road, Platform Road Junction, Sevashrama, Bengaluru, Karnataka. Pin-560023 (India)",4.55,0.07851596203623813
+368.0,Yelahanka,"Bellary Road, Legacy Cirocco, Jakkuru, Bengaluru, Karnataka. Pin-560064 (India)",4.5,0.07765314926660914
+260.0,Jeevanbheemanagar,"Old Airport Road, Thimma Reddy Layout, Murugeshpalya, Bengaluru, Karnataka. Pin-560017 (India)",4.46,0.07696289905090595
+687.0,Sheshadripuram,"Anjaneya Temple Street, Krishna Block, Malleshwaram, Bengaluru, Karnataka. Pin-560020 (India)",4.45,0.07679033649698015
+317.0,Cubbon Park,"Cubbon Road, Police Thimmaiah Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)",4.45,0.07679033649698015
+379.0,K.S. Layout,"Amruth Nagar Main Road, Konanakunte Junction, Konanakunte, Bengaluru, Karnataka. Pin-560062 (India)",4.45,0.07679033649698015
+234.0,Yelahanka,"Bellary Road, Bagalur Cross Junction, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)",4.45,0.07679033649698015
+207.0,J.P. Nagar,"24th Main Road, Sarakki Agrahara, JP Nagar Phase 5, Bengaluru, Karnataka. Pin-560078 (India)",4.4,0.07592752372735116
+434.0,K.R. Pura,"MBT Road, KR Puram Extension, Bengaluru, Karnataka. Pin-560036 (India)",4.375,0.07549611734253667
+190.0,Halasur,"Old Airport Road, Agaram, Bengaluru, Karnataka. Pin-560007 (India)",4.35,0.07506471095772216
+72.0,Electronic City,"Hosur Road, Nanjuda Reddy Layout, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",4.125,0.07118205349439172
+51.0,Jnanabharathi,"Kengeri Main Road, Ullal Junction, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)",4.0,0.06902502157031924
+652.0,Sheshadripuram,"Deena Seva Sangh Road, RV Shetty Layout, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)",4.0,0.06902502157031924
+258.0,Jnanabharathi,"60 Feet Road, KK Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",3.9250000000000003,0.06773080241587576
+65.0,Jnanabharathi,"Kengeri Main Road, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)",3.9,0.06729939603106125
+53.0,Shivajinagar,"Cubbon Road, Shivaji Nagar Intersection Junction, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)",3.8600000000000003,0.06660914581535807
+1219.0,Jalahalli,"Rajatha Bhavana Road, BEL Colony, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)",3.825,0.06600517687661778
+19.0,Madiwala,"Hosur Road, Vivekananda Circle, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)",3.8000000000000003,0.06557377049180328
+43.0,HAL Old Airport,"Outer Ring Road, Karthik Nagar, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)",3.66,0.06315789473684211
+824.0,Banashankari,"Ittamadu Road, Thimmaraya Gowda Layout, Ittamadu, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)",3.6500000000000004,0.06298533218291631
+226.0,Halasur,"Old Airport Road, Dr Rajkumar Circle, Domlur, Bengaluru, Karnataka. Pin-560071 (India)",3.615,0.062381363244176015
+407.0,Halasuru Gate,"Raja Ram Mohan Roy Road, SKAV 909, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)",3.52,0.06074201898188093
+75.0,Byatarayanapura,"Mysore Road, Deepanjali Nagar, Bengaluru, Karnataka. Pin-560026 (India)",3.45,0.059534081104400345
+680.0,Upparpet,"Palace Road, Mysore Bank Circle, Chickpete, Bengaluru, Karnataka. Pin-560009 (India)",3.375,0.05823986194995685
+156.0,Halasur,"Trinity Church Road, Trinity Circle, Ashok Nagar, Bengaluru, Karnataka. Pin-560001 (India)",3.3000000000000003,0.056945642795513375
+840.0,Adugodi,"Bannerghatta Main Road, Mythreyi Naimisha, Adugodi, Bengaluru, Karnataka. Pin-560030 (India)",3.2750000000000004,0.05651423641069888
+205.0,Bellandur,"Amrutha College Road, Sri Venkateshwara Circle, Haralur, Bengaluru, Karnataka. Pin-560035 (India)",3.275,0.05651423641069887
+121.0,Jnanabharathi,"Kengeri Main Road, Nagarbhavi BDA Shopping Complex, Block 3, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",3.275,0.05651423641069887
+295.0,Hennuru,"MBT Road, AK Colony, Munivenkatappa Layout, Nagavara, Bengaluru, Karnataka. Pin-560045 (India)",3.25,0.05608283002588438
+363.0,Whitefield,"HAL Airport Road, DSR Vertex Apex, Thubarahalli, Bengaluru, Karnataka. Pin-560066 (India)",3.25,0.05608283002588438
+582.0,Jayanagara,"25th Cross Road, 22nd Cross 4th Main Road Circle, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)",3.1900000000000004,0.0550474547023296
+502.0,Hennuru,"Hennur Main Road, Atel Munishamappa Garden, Narayanpura, Kothnur Narayanapura, Bengaluru, Karnataka. Pin-560077 (India)",3.09,0.053321829163071606
+2.0,Wilson Garden,"Lalbagh Main Road, Dr Sri Shantaveera Swami Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)",3.0,0.05176876617773943
+481.0,HAL Old Airport,"Outer Ring Road, SLS Serenity Apartment, Reddy Layout, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)",3.0,0.05176876617773943
+384.0,Banashankari,"Dr Rajkumar Puniya Bhoomi Road, Block 6, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)",3.0,0.05176876617773943
+653.0,Sheshadripuram,"Sri Venkataranga Iyengar Road, Mill Corner Junction, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)",3.0,0.05176876617773943
+809.0,Halasur,"Old Airport Road, Attimaramma Circle, Domlur, Bengaluru, Karnataka. Pin-560071 (India)",3.0,0.05176876617773943
+630.0,Kamakshipalya,"Magadi Main Road, Dodda Gollarahatti, Bengaluru, Karnataka. Pin-560091 (India)",2.9899999999999998,0.051596203623813626
+182.0,Cubbon Park,"Kasturba Road, Siddalingaiah Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)",2.95,0.05090595340811044
+419.0,K.G. Halli,"MBT Road, Grace Town, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)",2.95,0.05090595340811044
+575.0,K.S. Layout,"Subramanyapura Main Road, Veerabhadra Layout, Uttarahalli, Bengaluru, Karnataka. Pin-560061 (India)",2.9,0.05004314063848145
+625.0,Jayanagara,"30th Cross Road, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)",2.825,0.04874892148403796
+469.0,Wilson Garden,"Hosur Road, Kengal Hanumanthaiah Circle, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)",2.8150000000000004,0.04857635893011217
+612.0,Banaswadi,"1st Main Road, Rajeev Nagar, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)",2.8000000000000003,0.04831751509922347
+127.0,Magadi Road,"Magadi Road, Magadi Road Area, Bengaluru, Karnataka. Pin-560023 (India)",2.75,0.04745470232959448
+106.0,K.R. Pura,"Basavanapura Road, Sri Manjunatha Layout, KR Puram, Bengaluru, Karnataka. Pin-560049 (India)",2.73,0.04710957722174288
+4.0,Wilson Garden,"Lalbagh Fort Road, Lalbagh Main Gate Junction, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)",2.725,0.04702329594477998
+437.0,Sheshadripuram,"BTS Bus Station Road, Old Mysore Road Junction, Seshadripuram, Bengaluru, Karnataka. Pin-560023 (India)",2.6500000000000004,0.0457290767903365
+661.0,Banashankari,"Subramanyapura Main Road, Teachers Colony, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560070 (India)",2.6500000000000004,0.0457290767903365
+1168.0,Yeshwanthpura,"MS Ramaiah Road, Nada Prabhu Kempegowda Circle, Mathikere, Bengaluru, Karnataka. Pin-560054 (India)",2.64,0.045556514236410696
+99.0,Peenya,"Mumbai Bengaluru Highway, Bagalagunte, Bengaluru, Karnataka. Pin-560073 (India)",2.64,0.045556514236410696
+472.0,Yelahanka,"Bellary Road, Krishnaja Avenue, Maruthi Nagar, Palanahalli, Bengaluru, Karnataka. Pin-560064 (India)",2.55,0.04400345125107851
+513.0,K.R. Pura,"MBT Road, Kodandaram, Medahalli, Bengaluru, Karnataka. Pin-560049 (India)",2.55,0.04400345125107851
+132.0,Sheshadripuram,"Padmabhushan Dr RK Srikantan Road, Kalpataru Kalpavriksha, Madhava Nagar, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)",2.54,0.043830888697152716
+968.0,Wilson Garden,"Hosur Road, NIMHANS Junction, NIMHANS, Bengaluru, Karnataka. Pin-560029 (India)",2.5199999999999996,0.04348576358930111
+569.0,Banaswadi,"MBT Road, Vijaya Bank Colony, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)",2.5,0.04314063848144952
+428.0,K.R. Pura,"MBT Road, MC Sarovar Apartment, Sidhappa Layout, KR Puram, Bengaluru, Karnataka. Pin-560049 (India)",2.475,0.04270923209663503
+277.0,Halasur,"Cambridge Road, Nanavali Dargah, Agaram, Bengaluru, Karnataka. Pin-560007 (India)",2.475,0.04270923209663503
+321.0,HAL Old Airport,"Outer Ring Road, Kempalakkamma Layout, Doddanekundi, Bengaluru, Karnataka. Pin-560037 (India)",2.45,0.04227782571182054
+45.0,Malleshwaram,"80 Feet Ring Road, Orion, Brigade Gateway, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)",2.45,0.04227782571182054
+626.0,Sadashivanagar,"CV Raman Circle, CV Raman Circle, Indian Institute of Science, Bengaluru, Karnataka. Pin-560012 (India)",2.45,0.04227782571182054
+26.0,Mico Layout,"Bannerghatta Main Road, JD Mara Junction, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)",2.45,0.04227782571182054
+136.0,Jeevanbheemanagar,"Domlur Inner Ring Road, Carlton Towers, HAL Stage 2, Indiranagar, Bengaluru, Karnataka. Pin-560008 (India)",2.45,0.04227782571182054
+206.0,Pulikeshinagar(F.Town),"Netaji Road, Puttanna Junction, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)",2.44,0.042105263157894736
+216.0,Hennuru,"MBT Road, Ebisu Tech Park, Nagavara, Bengaluru, Karnataka. Pin-560045 (India)",2.41,0.04158757549611734
+499.0,Yelahanka,"Dodda Ballapur Main Road, East Colony, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)",2.375,0.040983606557377046
+638.0,Rajajinagar,"Dr Rajkumar Puniya Bhoomi Road, Block 1, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)",2.365,0.04081104400345125
+261.0,Hennuru,"Hennur Main Road, Skyline Retreat, Vaddrapalya, Hennuru, Bengaluru, Karnataka. Pin-560043 (India)",2.36,0.040724762726488346
+553.0,Kengeri,"2nd Main Road, Madhu Petrol Bunk Junction, Kengeri, Bengaluru, Karnataka. Pin-560059 (India)",2.29,0.039516824849007766
+498.0,K.R. Pura,"MBT Road, SM Layout, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)",2.275,0.039257981018119066
+68.0,Adugodi,"Srinivagilu Main Road, Godavari Block, National Games Village, Koramangala, Bengaluru, Karnataka. Pin-560047 (India)",2.275,0.039257981018119066
+519.0,Sheshadripuram,"Harekrishna Road, Tele Communication Employees Cooperative Society Layout, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)",2.275,0.039257981018119066
+256.0,Wilson Garden,"Hosur Road, Dr Ambedkar Social Welfare Association, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)",2.275,0.039257981018119066
+85.0,Banashankari,"Dr Rajkumar Puniya Bhoomi Road, Block 5 Phase 3, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)",2.25,0.03882657463330457
+327.0,Magadi Road,"80 Feet Ring Road, Prasanna Theatre Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",2.25,0.03882657463330457
+488.0,Bellandur,"Outer Ring Road, Sobha Hibiscus, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)",2.2,0.03796376186367558
+105.0,Hebbala,"Hebbal Flyover, Hebbal Junction, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)",2.2,0.03796376186367558
+685.0,Jeevanbheemanagar,"Old Madras Road, BDA Complex, Indiranagar, Bengaluru, Karnataka. Pin-560038 (India)",2.2,0.03796376186367558
+112.0,Banashankari,"Dr Rajkumar Puniya Bhoomi Road, Bhawani Nagar, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560070 (India)",2.2,0.03796376186367558
+440.0,Ashok Nagar,"Field Marshal KM Cariappa Road, Professor Asirvadam Circle, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)",2.2,0.03796376186367558
+3.0,Sadashivanagar,"13th Cross Road, Bashyam Circle, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560080 (India)",2.19,0.03779119930974978
+219.0,HAL Old Airport,"Panathur Main Road, Panathur, Bengaluru, Karnataka. Pin-560087 (India)",2.175,0.03753235547886108
+185.0,HAL Old Airport,"Outer Ring Road, Vaswani Melrose, Chandana, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)",2.1500000000000004,0.0371009490940466
+390.0,Rajajinagar,"Dr Rajkumar Puniya Bhoomi Road, FTI Junction, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)",2.1,0.0362381363244176
+242.0,Wilson Garden,"Hosur Road, Hombegowda Nagar, Bengaluru, Karnataka. Pin-560029 (India)",2.075,0.035806729939603106
+14.0,Halasur,"Old Madras Road, A Nanjappa Circle, Halasuru, Bengaluru, Karnataka. Pin-560008 (India)",2.0650000000000004,0.03563416738567731
+55.0,Banaswadi,"2nd Cross Road, Horamavu Junction, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)",2.06,0.035547886108714406
+604.0,Electronic City,"Electronics City Flyover, HAL Layout, Bengaluru, Karnataka. Pin-560068 (India)",2.06,0.035547886108714406
+781.0,Halasur,"Victoria Road, ASC Junction, Agaram, Bengaluru, Karnataka. Pin-560007 (India)",2.0,0.03451251078515962
+570.0,Sheshadripuram,"Padmabhushan Dr RK Srikantan Road, Seshadripuram Police Station Junction, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)",2.0,0.03451251078515962
+239.0,Pulikeshinagar(F.Town),"Haines Road, Coles Park Junction, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)",2.0,0.03451251078515962
+268.0,Banashankari,"9th Main Road, PSTI Quarters, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560078 (India)",2.0,0.03451251078515962
+347.0,Upparpet,"Seshadri Road, Railway Officers Enclave, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)",2.0,0.03451251078515962
+243.0,Electronic City,"Neeladri Road, Concord Silicon Valley, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",2.0,0.03451251078515962
+388.0,Peenya,"1st Cross Road, M Ramaiah Layout, Stage 2, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",2.0,0.03451251078515962
+1065.0,Jalahalli,"SM Road, Patel Shamanna Layout, Kammagondanahalli, Bengaluru, Karnataka. Pin-560015 (India)",2.0,0.03451251078515962
+86.0,Halasuru Gate,"KH Road, Sri Jai Maruthi Eat Out Junction, Shanti Nagar, Bengaluru, Karnataka. Pin-560027 (India)",2.0,0.03451251078515962
+806.0,Yelahanka,"DVN MD 6, Assetz The Secret Lake, Devanahalli, Bengaluru Rural District, Karnataka. Pin-562110 (India)",2.0,0.03451251078515962
+1235.0,Chikkabanavara,"Hesaraghatta Main Road, Chikkabanavara, Bengaluru, Karnataka. Pin-560090 (India)",2.0,0.03451251078515962
+391.0,Cubbon Park,"Kasturba Road, Mahatma Gandhi Circle, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)",2.0,0.03451251078515962
+152.0,Sheshadripuram,"Subedar Chatram Road, Shri Rajiv Gandhi Circle, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)",2.0,0.03451251078515962
+825.0,Pulikeshinagar(F.Town),"Haines Road, Prestige Deja Vu, Pulikeshi Nagar, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)",2.0,0.03451251078515962
+682.0,Shivajinagar,"Central Street, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)",2.0,0.03451251078515962
+688.0,K.S. Layout,"Subramanyapura Main Road, Komarla Brigade Residency, Chikkalsandra, Bengaluru, Karnataka. Pin-560061 (India)",2.0,0.03451251078515962
+289.0,K.S. Layout,"Subramanyapura Main Road, Muneshwara Nagar, Padmanabhanagar, Bengaluru, Karnataka. Pin-560070 (India)",2.0,0.03451251078515962
+24.0,Wilson Garden,"12th Cross Road, Lakksandra Extension, Wilson Garden, Bengaluru, Karnataka. Pin-560030 (India)",1.99,0.03433994823123382
+958.0,Jnanabharathi,"Kengeri Main Road, Vishveshwarya Layout, Mallathahalli, Bengaluru, Karnataka. Pin-560056 (India)",1.99,0.03433994823123382
+444.0,Madiwala,"Hosur Road, Bhuvanappa Layout, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)",1.9500000000000002,0.03364969801553063
+333.0,Kamakshipalya,"Magadi Main Road, Kempaiah Estate, Kamakshipalya, Bengaluru, Karnataka. Pin-560079 (India)",1.9500000000000002,0.03364969801553063
+103.0,Yelahanka,"Bellary Road, North Gate Office Park Phase 3, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)",1.9500000000000002,0.03364969801553063
+131.0,Electronic City,"Electronics City Flyover, AM Industrial Estate, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)",1.9500000000000002,0.03364969801553063
+589.0,Halasuru Gate,"Model Road, Kumbaragundi, Kalasipalyam, Bengaluru, Karnataka. Pin-560002 (India)",1.9000000000000001,0.03278688524590164
+324.0,Halasuru Gate,"1st Cross Road, Bagamane Pallavi Tower, Sampangiram Nagar, Bengaluru, Karnataka. Pin-560027 (India)",1.9000000000000001,0.03278688524590164
+542.0,Peenya,"Mumbai Bengaluru Highway, Sri Muneshwara Industrial Estate, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",1.9000000000000001,0.03278688524590164
+202.0,Jnanabharathi,"Mysore Road, Navami Landmark, Bangalore University, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)",1.9000000000000001,0.03278688524590164
+142.0,Hulimavu,"Bannerghatta Main Road, Anjanapura Upavalaya, Gottigere, Bengaluru, Karnataka. Pin-560083 (India)",1.9000000000000001,0.03278688524590164
+526.0,Adugodi,"Domlur Inner Ring Road, Koramangala Water Tank Junction, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",1.9000000000000001,0.03278688524590164
+500.0,Chikkajala,"1st Main Road, Chikkajala, Bengaluru, Karnataka. Pin-562157 (India)",1.9000000000000001,0.03278688524590164
+1479.0,Yeshwanthpura,"Chord Road, WTC Annexe, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)",1.9000000000000001,0.03278688524590164
+130.0,Bellandur,"Outer Ring Road, SM Industrial Estate, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",1.9000000000000001,0.03278688524590164
+528.0,Halasur,"Lower Agaram Road, Lower Agaram Junction, Victoria Layout, Bengaluru, Karnataka. Pin-560047 (India)",1.9,0.032786885245901634
+566.0,Jnanabharathi,"Dr Rajkumar Puniya Bhoomi Road, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",1.9,0.032786885245901634
+611.0,Bellandur,"Sarjapura Main Road, Divyasree Elan Homes, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)",1.9,0.032786885245901634
+151.0,Chamarajpet,"Dr TCM Royan Road, Akkimakalamna Gudi, Cottonpete, Bengaluru, Karnataka. Pin-560053 (India)",1.9,0.032786885245901634
+460.0,Hennuru,"K Narayanapura Main Road, Gowdas Sri A Hanumanthagowda Circle, Kothnur Narayanapura, Bengaluru, Karnataka. Pin-560077 (India)",1.9,0.032786885245901634
+249.0,Sadashivanagar,"CV Raman Road, CNR Rao Circle, Indian Institute of Science, Bengaluru, Karnataka. Pin-560012 (India)",1.87,0.03226919758412425
+94.0,HSR Layout,"Hosur Road, Krimson Square, Muneshwara Nagar, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",1.85,0.03192407247627265
+950.0,City Market,"Kalasipalyam Main Road, Basappa Circle, VV Puram, Bengaluru, Karnataka. Pin-560004 (India)",1.8250000000000002,0.031492666091458156
+1095.0,Thalagattapura,"2nd Cross Road, 4th H Block, Raghuvanahalli, Bengaluru, Karnataka. Pin-560109 (India)",1.8250000000000002,0.031492666091458156
+758.0,Jayanagara,"4th Main Road, Shri Satya Sai Circle, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)",1.8250000000000002,0.031492666091458156
+187.0,Mico Layout,"20th Main Road, BTM Layout Stage 1, Bengaluru, Karnataka. Pin-560068 (India)",1.8250000000000002,0.031492666091458156
+452.0,Jnanabharathi,"11th Cross Road, Malagala Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",1.8250000000000002,0.031492666091458156
+959.0,K.G. Halli,"80 Feet Road, St Marys Layout, Sarvodaya Nagar, HBR Layout, Bengaluru, Karnataka. Pin-560045 (India)",1.8250000000000002,0.031492666091458156
+504.0,Yelahanka,"16th A Main Road, East Colony, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)",1.8250000000000002,0.031492666091458156
+283.0,K.R. Pura,"MBT Road, ITI Data Center, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)",1.8150000000000002,0.031320103537532354
+319.0,Yelahanka,"SH 9, Yelahanka Circle, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)",1.8150000000000002,0.031320103537532354
+238.0,Hebbala,"Bellary Road, Esteem Mall, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",1.81,0.031233822260569456
+1.0,HSR Layout,"Outer Ring Road, Heavie Halcyon, Agara, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",1.76,0.030371009490940466
+711.0,K.R. Pura,"MBT Road, ITI Township, KR Puram, Bengaluru, Karnataka. Pin-560016 (India)",1.725,0.029767040552200173
+186.0,Electronic City,"Hosur Road, Columbia Aaltius, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",1.725,0.029767040552200173
+847.0,Mahadevapura,"Kadugodi Railway Bridge, Golden Blossom Apartment, Belatur Colony, Kadugodi, Bengaluru, Karnataka. Pin-560067 (India)",1.725,0.029767040552200173
+747.0,Kamakshipalya,"Magadi Main Road, Dodda Gollarahatti, Bengaluru, Karnataka. Pin-560091 (India)",1.725,0.029767040552200173
+406.0,Mico Layout,"Bannerghatta Main Road, Bilekahalli Layout, Bilekahalli, Bengaluru, Karnataka. Pin-560076 (India)",1.71,0.029508196721311473
+790.0,Hebbala,"MBT Road, Kariyanna Layout, Guddadahalli, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)",1.7000000000000002,0.029335634167385678
+603.0,Chikkajala,"Bengaluru Bellary Road, Hunasamaranahalli, Bengaluru, Karnataka. Pin-562157 (India)",1.7000000000000002,0.029335634167385678
+591.0,Chamarajpet,"BGS Flyover, Anandpuram, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)",1.7000000000000002,0.029335634167385678
+438.0,HAL Old Airport,"HAL Airport Road, Manjunatha Nagar, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)",1.7,0.029335634167385674
+217.0,Yelahanka,"Bellary Road, Century Horizon, Yashoda Nagar, Yelahanka, Bengaluru, Karnataka. Pin-560065 (India)",1.7,0.029335634167385674
+1037.0,K.R. Pura,"MBT Road, Ohana Apartment, KR Puram, Bengaluru, Karnataka. Pin-560049 (India)",1.6500000000000001,0.028472821397756688
+635.0,Whitefield,"Hagadur Main Road, Carmel Heights, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",1.6500000000000001,0.028472821397756688
+163.0,Yeshwanthpura,"Chord Road, Aparna Elina, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",1.6500000000000001,0.028472821397756688
+145.0,Jeevanbheemanagar,"Old Airport Road, Manipal Hospital Junction, Kodihalli, Bengaluru, Karnataka. Pin-560008 (India)",1.6500000000000001,0.028472821397756688
+271.0,K.R. Pura,"Cheemasandra Main Road, Bren Starlight, Virgonagar, Avalahalli South Taluka, Bengaluru, Karnataka. Pin-560049 (India)",1.6500000000000001,0.028472821397756688
+64.0,Devanahalli Airport,"Srinagar Kanyakumari Highway, Nitesh Long Land, Devanahalli, Karnataka. Pin-562110 (India)",1.6500000000000001,0.028472821397756688
+150.0,Hennuru,"Hennur Main Road, KBM Shariff Layout, Geddalahalli, Bengaluru, Karnataka. Pin-560077 (India)",1.6500000000000001,0.028472821397756688
+559.0,K.S. Layout,"Kadirenahalli Cross Road, Eshwara Nagar, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560078 (India)",1.65,0.028472821397756684
+48.0,Mahadevapura,"Whitefield Main Road, Hope Farm Circle, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",1.65,0.028472821397756684
+681.0,Halasuru Gate,"Mission Road, ETO Junction, Kalasipalyam, Bengaluru, Karnataka. Pin-560027 (India)",1.625,0.02804141501294219
+1024.0,HAL Old Airport,"HAL Airport Road, TNR Layout, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)",1.6,0.027610008628127698
+383.0,HAL Old Airport,"Marathahalli Underpass, Ramanjaneya Layout, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)",1.6,0.027610008628127698
+56.0,Vijayanagara,"Chord Road, Manuvana, Vijaya Nagar, Bengaluru, Karnataka. Pin-560040 (India)",1.6,0.027610008628127698
+183.0,Bellandur,"Outer Ring Road, Bellandur Circle, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)",1.6,0.027610008628127698
+222.0,Yelahanka,"Bellary Road, Embassy Business Hub, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)",1.6,0.027610008628127698
+357.0,Ashok Nagar,"Hosur Road, Police Quarters, B&C Colony, Shanti Nagar, Bengaluru, Karnataka. Pin-560025 (India)",1.6,0.027610008628127698
+287.0,Yelahanka,"Bellary Road, Legacy Cirocco, Jakkuru, Bengaluru, Karnataka. Pin-560064 (India)",1.6,0.027610008628127698
+475.0,Kamakshipalya,"5th Main Road, Asthagrama New Extension, Kamakshipalya, Bengaluru, Karnataka. Pin-560079 (India)",1.6,0.027610008628127698
+403.0,HSR Layout,"13th Cross Road, Sector 6, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",1.6,0.027610008628127698
+555.0,Vijayanagara,"8th Main Road, Govindaraja Nagara Circle, Vijaya Nagar, Bengaluru, Karnataka. Pin-560040 (India)",1.5150000000000001,0.026143226919758414
+402.0,Ashok Nagar,"Mahatma Gandhi Road, Mayo Hall Junction, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)",1.46,0.02519413287316652
+77.0,R.T. Nagar,"Jayamahal Main Road, Munireddypalya, JC Nagar, Bengaluru, Karnataka. Pin-560006 (India)",1.45,0.025021570319240724
+866.0,Magadi Road,"Binny Mill Main Road, Binny Mill Circle, Binnypete, Bengaluru, Karnataka. Pin-560023 (India)",1.45,0.025021570319240724
+1073.0,Sheshadripuram,"South Central Road, Sirur Park Junction, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)",1.45,0.025021570319240724
+1203.0,Yelahanka,"Yelahanka Road, Adithyanagara, Attur, Bengaluru North City Corporation, Bengaluru, Yelahanka taluku, Bengaluru Urban, Karnataka, 560097, India",1.45,0.025021570319240724
+714.0,V.V.Puram (C.Pet),"Pampa Mahakavi Road, TP Kailasam Circle, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)",1.45,0.025021570319240724
+13.0,Hebbala,"MBT Road, Amanikere, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)",1.45,0.025021570319240724
+21.0,Jayanagara,"Silk Board Double Decker Flyover, East End Circle, Jayanagar, Bengaluru, Karnataka. Pin-560069 (India)",1.45,0.025021570319240724
+305.0,Jnanabharathi,"Kengeri Main Road, Jnana Jyothi Nagar, Bengaluru, Karnataka. Pin-560056 (India)",1.45,0.025021570319240724
+211.0,Jnanabharathi,"Kengeri Main Road, Block 11, Marilingappa Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",1.45,0.025021570319240724
+265.0,Basavanagudi,"Vanivilas Road, Vanivilas Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)",1.45,0.025021570319240724
+1458.0,Kamakshipalya,"8th Cross Road, KA Rangappa Industrial Estate, Kamakshipalya, Bengaluru, Karnataka. Pin-560079 (India)",1.4080000000000001,0.024296807592752375
+157.0,K.G. Halli,"MBT Road, Nagawara Junction, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)",1.4000000000000001,0.024158757549611734
+888.0,Whitefield,"HAL Airport Road, Miraya Rose, Siddapura, Bengaluru, Karnataka. Pin-560066 (India)",1.4000000000000001,0.024158757549611734
+290.0,Jeevanbheemanagar,"Suranjan Das Road, Byappanahalli Junction, Baiyappanahalli, Bengaluru, Karnataka. Pin-560038 (India)",1.4000000000000001,0.024158757549611734
+741.0,Adugodi,"Domlur Inner Ring Road, Sony World Junction, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",1.4,0.02415875754961173
+119.0,Bellandur,"1st Cross Road, Iblur Village, Bellandur, Bengaluru, Karnataka. Pin-560102 (India)",1.4,0.02415875754961173
+568.0,Banashankari,"MK Puttalingaiah Main Road, Kittur Rani Chennamma Circle, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)",1.4,0.02415875754961173
+293.0,Adugodi,"Srinivagilu Main Road, Maharaja Junction, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",1.375,0.02372735116479724
+794.0,Adugodi,"1st Cross Road, Krupanidhi College Junction, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",1.375,0.02372735116479724
+177.0,Yelahanka,"Hesarghatta Road, Mohammad Sab Palya Circle, Vidyaranyapura, Bengaluru, Karnataka. Pin-560097 (India)",1.375,0.02372735116479724
+1100.0,Electronic City,"Genesis Eco Sphere Road, Genesis Eco Sphere, Neeladri Nagar, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",1.375,0.02372735116479724
+886.0,Jayanagara,"11th Main Road, Block 4T East, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)",1.365,0.02355478861087144
+891.0,Rajajinagar,"10th Main Road, Block 4E, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",1.365,0.02355478861087144
+184.0,Sadashivanagar,"Sri Ramana Maharshi Road, Palace Ground, Jayamahal, Bengaluru, Karnataka. Pin-560080 (India)",1.35,0.023295944779982744
+445.0,Mico Layout,"Bannerghatta Main Road, Arekere Gate Junction, Arakere, Bengaluru, Karnataka. Pin-560076 (India)",1.35,0.023295944779982744
+690.0,Hulimavu,"Bannerghatta Main Road, Hulimavu, Bengaluru, Karnataka. Pin-560076 (India)",1.35,0.023295944779982744
+471.0,Yeshwanthpura,"Outer Ring Road, Jain Heights Revanta, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",1.35,0.023295944779982744
+1170.0,Magadi Road,"G Narayana Kumar Road, Annapurneshwari Industrial Area, Magadi Road Area, Bengaluru, Karnataka. Pin-560023 (India)",1.35,0.023295944779982744
+607.0,Shivajinagar,"Cubbon Road, Tyagi Henagalavarayan Junction, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)",1.35,0.023295944779982744
+240.0,Hennuru,"Hennur Main Road, Geddalahalli, Bengaluru, Karnataka. Pin-560077 (India)",1.3499999999999999,0.02329594477998274
+111.0,Jayanagara,"Silk Board Double Decker Flyover, MTB Area, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)",1.3499999999999999,0.02329594477998274
+344.0,R.T. Nagar,"Jayamahal Main Road, Joynagar, Jayamahal, Bengaluru, Karnataka. Pin-560006 (India)",1.3499999999999999,0.02329594477998274
+365.0,K.R. Pura,"MBT Road, Pride Euphora, Hosabasavanapura, KR Puram, Bengaluru, Karnataka. Pin-560049 (India)",1.275,0.022001725625539256
+918.0,Mahadevapura,"Whitefield Main Road, Reddys Keerthi Residency, Belathur, Bengaluru, Karnataka. Pin-560067 (India)",1.275,0.022001725625539256
+1260.0,Rajajinagar,"1st Main Road, Kempegowda Layout, Laggere, Bengaluru, Karnataka. Pin-560058 (India)",1.275,0.022001725625539256
+1276.0,City Market,"Osman Khan Road, City Market Circle, Bengaluru, Karnataka. Pin-560002 (India)",1.26,0.02174288179465056
+548.0,Banaswadi,"4th B Cross Road, Jala, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)",1.21,0.02088006902502157
+348.0,Mahadevapura,"Whitefield Main Road, Sai Colony, Kadugodi, Bengaluru, Karnataka. Pin-560067 (India)",1.2000000000000002,0.020707506471095774
+1419.0,Electronic City,"3rd Main Road, Singasandra Industrial Estate, Begur, Bengaluru, Karnataka. Pin-560068 (India)",1.2,0.02070750647109577
+74.0,Magadi Road,"Binny Mill Main Road, Railway Quarters, Subhash Nagar, Sevashrama, Bengaluru, Karnataka. Pin-560023 (India)",1.1600000000000001,0.020017256255392583
+125.0,Chikkajala,"Bengaluru Bellary Road, Hunsemarrenhalli Junction, Hunasamaranahalli, Bengaluru, Karnataka. Pin-562157 (India)",1.15,0.01984469370146678
+660.0,K.G. Halli,"Nagawara Main Road, Chanukya Layout, Nagavara Village, Nagavara, Bengaluru, Karnataka. Pin-560045 (India)",1.15,0.01984469370146678
+1359.0,K.R. Pura,"Central Work Shop Road, BSNL CACT Building, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)",1.125,0.019413287316652286
+985.0,Jeevanbheemanagar,"12th Main Road, Sony World Junction, Indiranagar, Bengaluru, Karnataka. Pin-560008 (India)",1.1,0.01898188093183779
+400.0,Adugodi,"Hosur Road, Sarjapur Road Check Post Junction, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",1.1,0.01898188093183779
+160.0,Chamarajpet,"BGS Flyover, Chanda Nagar, Sultanpete, Bengaluru, Karnataka. Pin-560053 (India)",1.1,0.01898188093183779
+194.0,Hebbala,"Bellary Road, Kodigehalli Gate Junction, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)",1.1,0.01898188093183779
+895.0,Vijayanagara,"Chord Road, Nethravathi Government Quarters, MRCR Layout, Vijaya Nagar, Bengaluru, Karnataka. Pin-560040 (India)",1.1,0.01898188093183779
+465.0,Cubbon Park,"Dr Ambedkar Road, Police Thimmaiah Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)",1.1,0.01898188093183779
+1554.0,Mico Layout,"Outer Ring Road, GKS Layout, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)",1.1,0.01898188093183779
+636.0,Hebbala,"MBT Road, SNN Clermont, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",1.1,0.01898188093183779
+128.0,Chamarajpet,"BGS Flyover, Jolly Mohalla, Sultanpete, Bengaluru, Karnataka. Pin-560053 (India)",1.1,0.01898188093183779
+307.0,Halasur,"Domlur Inner Ring Road, ISRO Colony, Domlur, Bengaluru, Karnataka. Pin-560071 (India)",1.1,0.01898188093183779
+723.0,Magadi Road,"G Narayana Kumar Road, Annapurneshwari Industrial Area, Magadi Road Area, Bengaluru, Karnataka. Pin-560023 (India)",1.1,0.01898188093183779
+561.0,Banaswadi,"MBT Road, Keerthi Royal, Oble Reddy Layout, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)",1.1,0.01898188093183779
+966.0,Banaswadi,"3rd C Main Road, Vasthav Sneha Enclave, Chelekere, Bengaluru, Karnataka. Pin-560043 (India)",1.1,0.01898188093183779
+1483.0,Electronic City,"2nd Cross Road, Navami Funique, Channakeshava Nagar, Singasandra, Bengaluru, Karnataka. Pin-560100 (India)",1.1,0.01898188093183779
+718.0,Kengeri,"Mysore Road, The Arena, Kengeri Satellite Town, Bengaluru, Karnataka. Pin-560060 (India)",1.1,0.01898188093183779
+366.0,Chikkajala,"Bengaluru Bellary Road, Sadahalli Gate Junction, Navarathna Agrahara, Bengaluru, Karnataka. Pin-562157 (India)",1.1,0.01898188093183779
+62.0,Bellandur,"Outer Ring Road, Citilights Liberty Apartment, Kariyammana Agrahara, Bengaluru, Karnataka. Pin-560103 (India)",1.1,0.01898188093183779
+397.0,Banaswadi,"5th A Cross Road, CMR Colony, Babusapalya, Bengaluru, Karnataka. Pin-560043 (India)",1.1,0.01898188093183779
+1492.0,Magadi Road,"72nd Cross Road, Jedehalli, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",1.1,0.01898188093183779
+1003.0,Kodigehalli,"2nd Cross Road, Ganga Nagar, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)",1.0799999999999998,0.018636755823986193
+759.0,Jayanagara,"East End A Main Road, Dr BR Ambedkar Circle, Jayanagar, Bengaluru, Karnataka. Pin-560069 (India)",1.05,0.0181190681622088
+842.0,Chamarajpet,"AS Char Main Road, Old Tharagupete, Chickpete, Bengaluru, Karnataka. Pin-560002 (India)",1.02,0.017601380500431404
+1420.0,Jnanabharathi,"6th Cross Road, Block 11, Papareddypalya, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",1.0,0.01725625539257981
+1502.0,Peenya,"TVS Cross Road, TVS Cross, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",1.0,0.01725625539257981
+787.0,High ground,"Dr MH Ambarish Road, Trilite Junction, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)",1.0,0.01725625539257981
+784.0,Bellandur,"Sarjapura Main Road, KPR Sunrise Square, P Krishnappa Layout, Doddakannelli, Bengaluru, Karnataka. Pin-560035 (India)",1.0,0.01725625539257981
+1160.0,K.S. Layout,"1st Main Road, Prashanthi Nagar Extension, Bikaspura, Bengaluru, Karnataka. Pin-560062 (India)",1.0,0.01725625539257981
+1592.0,Kengeri,"Sri Sri Sri Tiruchi Mahaswamiji Road, Ideal Home Township, Rajarajeshwari Nagar, Bengaluru, Karnataka. Pin-560098 (India)",1.0,0.01725625539257981
+584.0,Pulikeshinagar(F.Town),"Wheeler Road, Sindhi Colony, Cox Town, Bengaluru, Karnataka. Pin-560005 (India)",1.0,0.01725625539257981
+508.0,Pulikeshinagar(F.Town),"Netaji Road, Sri Ramakrishnappa Circle, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)",1.0,0.01725625539257981
+510.0,R.T. Nagar,"Dinnur Main Road, White House Apartment, RT Nagar, Bengaluru, Karnataka. Pin-560032 (India)",1.0,0.01725625539257981
+1421.0,HAL Old Airport,"11th Cross Road, SJR Brooklyn Apartment, Kundalhalli, Bengaluru, Karnataka. Pin-560037 (India)",1.0,0.01725625539257981
+609.0,Yelahanka,"Yelahanka Road, Stage 1, Aditya Nagar, Chikkabettahalli, Bengaluru, Karnataka. Pin-560097 (India)",1.0,0.01725625539257981
+1121.0,Jnanabharathi,"Mallathahalli Road, Sri Gurukrupa Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",1.0,0.01725625539257981
+1208.0,K.G. Halli,"Nagawara Main Road, Bilal Nagar, Pillanna Garden, Bengaluru, Karnataka. Pin-560045 (India)",1.0,0.01725625539257981
+761.0,Banashankari,"27th Cross Road, Brigade Software Park, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560070 (India)",1.0,0.01725625539257981
+1610.0,V.V.Puram (C.Pet),"Pampa Mahakavi Road, Appajappa Agrahara, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)",1.0,0.01725625539257981
+1234.0,Kengeri,"Dr Vishnuvardhan Main Road, Kanakadas Circle, Gaanakallu, Bengaluru, Karnataka. Pin-560060 (India)",1.0,0.01725625539257981
+1400.0,Hulimavu,"Bannerghatta Main Road, Ambiant, Weavers Colony, Bengaluru, Karnataka. Pin-560083 (India)",1.0,0.01725625539257981
+1107.0,Banashankari,"Gayatri Bhavan Road, Bhovi Colony, Block 3, Thyagarajanagar, Bengaluru, Karnataka. Pin-560070 (India)",1.0,0.01725625539257981
+1444.0,Malleshwaram,"Siddavanahalli Krishna Sharma Road, Sarangapani, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)",1.0,0.01725625539257981
+1585.0,J.P. Nagar,"24th Main Road, RK Colony, JP Nagar Phase 2, Bengaluru, Karnataka. Pin-560078 (India)",1.0,0.01725625539257981
+529.0,Sadashivanagar,"Padmasri CK Venkata Ramaiah Road, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)",1.0,0.01725625539257981
+601.0,Malleshwaram,"Sri Venkataranga Ayangar Road, Acharya Sri Ramanuja Circle, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)",1.0,0.01725625539257981
+1541.0,Chamarajpet,"Dr TCM Royan Road, Subhash Nagar, Cottonpete, Bengaluru, Karnataka. Pin-560053 (India)",1.0,0.01725625539257981
+1068.0,Malleshwaram,"Sri Venkataranga Ayangar Road, Krishna Apartment, Kadumalleshwara, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)",1.0,0.01725625539257981
+1204.0,Kodigehalli,"Kodigehalli Main Road, Kodigehalli Circle, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)",1.0,0.01725625539257981
+627.0,Kamakshipalya,"Magadi Main Road, Apanapa Layout, Byadrahalli, Bengaluru, Karnataka. Pin-560091 (India)",1.0,0.01725625539257981
+827.0,Yelahanka,"Yelahanka New Town Main Road, Sector B, Yelahanka New Town, Bengaluru, Karnataka. Pin-560064 (India)",1.0,0.01725625539257981
+451.0,V.V.Puram (C.Pet),"5th Main Road, Shri Ma Ramamurthy Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)",1.0,0.01725625539257981
+831.0,Chikkabanavara,"Hesaraghatta Main Road, Janapriya Nivas, Chikkasandra, Bengaluru, Karnataka. Pin-560090 (India)",1.0,0.01725625539257981
+1534.0,Vijayanagara,"Padmabhushan Dr MC Modi Road, Bhimajyothi LIC Colony, Basaveshwara Nagar, Bengaluru, Karnataka. Pin-560079 (India)",1.0,0.01725625539257981
+837.0,Malleshwaram,"Sri Venkataranga Ayangar Road, Shivanandappa Layout, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)",1.0,0.01725625539257981
+386.0,Chikkabanavara,"Hesaraghatta Main Road, Bhuvaneshwari Nagar, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)",1.0,0.01725625539257981
+1315.0,Sadashivanagar,"Unnamed Road, Indira Nagar, Nelamangala, Karnataka. Pin-562123 (India)",1.0,0.01725625539257981
+1340.0,Jnanabharathi,"Mallathahalli Road, Sri Gurukrupa Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",1.0,0.01725625539257981
+659.0,Electronic City,"Hosur Road, Mahendra Aarya Homes, Ananath Nagar Phase 1, Kammasandra Anekal Taluka, Bengaluru, Karnataka. Pin-560100 (India)",1.0,0.01725625539257981
+976.0,Jnanabharathi,"60 Feet Road, Sri Maregowda Circle, Gidadakonenahalli, Bengaluru, Karnataka. Pin-560091 (India)",1.0,0.01725625539257981
+1349.0,Banashankari,"1st Cross Road, AK Colony, Block 7, Jayanagar, Bengaluru, Karnataka. Pin-560070 (India)",1.0,0.01725625539257981
+415.0,V.V.Puram (C.Pet),"Bull Temple Road, Chamrajpet 5th Main Junction, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)",1.0,0.01725625539257981
+1599.0,Cubbon Park,"Dr Ambedkar Road, Shanthaveri Gopalagowda Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)",1.0,0.01725625539257981
+410.0,Chikkajala,"Sadahalli Toll Plaza, Sadahalli Gate Junction, Navarathna Agrahara, Bengaluru, Karnataka. Pin-562157 (India)",1.0,0.01725625539257981
+964.0,Banashankari,"13th Cross Road, CT Bed Extension, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560070 (India)",1.0,0.01725625539257981
+1297.0,Bellandur,"Sarjapura Main Road, BN Mathrushree Layout, Kaikondrahalli, Bengaluru, Karnataka. Pin-560035 (India)",1.0,0.01725625539257981
+1155.0,Jnanabharathi,"Kengeri Main Road, Bayamma Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560091 (India)",1.0,0.01725625539257981
+146.0,Jayanagara,"9th Main Road, Block 5, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)",1.0,0.01725625539257981
+1527.0,Halasuru Gate,"District Office Road, Cauvery Bhavan, Ambedkar Veedhi, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)",1.0,0.01725625539257981
+1222.0,Electronic City,"Hosa Road, Bhadregowda Layout, Rayasandra, Bengaluru, Karnataka. Pin-560100 (India)",1.0,0.01725625539257981
+820.0,K.G. Halli,"Nagawara Main Road, Eranna Palya, HBR Layout, Bengaluru, Karnataka. Pin-560045 (India)",1.0,0.01725625539257981
+1041.0,Yelahanka,"16th B Cross Road, Stage 3, Yelahanka New Town, Bengaluru, Karnataka. Pin-560064 (India)",1.0,0.01725625539257981
+1394.0,City Market,"Lalbagh Fort Road, Minerva Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)",1.0,0.01725625539257981
+856.0,Pulikeshinagar(F.Town),"Lazar Road, Government Police Quarters, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)",1.0,0.01725625539257981
+802.0,Banashankari,"Ittamadu Road, Maruthi Nagar, Ittamadu, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)",1.0,0.01725625539257981
+1571.0,Mico Layout,"Hosur Road, CC Layout, Adugodi, Bengaluru, Karnataka. Pin-560029 (India)",1.0,0.01725625539257981
+1028.0,Basavanagudi,"Bull Temple Road, Sunkenahalli, Gavipuram Extension, Bengaluru, Karnataka. Pin-560004 (India)",1.0,0.01725625539257981
+1052.0,Adugodi,"80 Feet Road, SBI Colony, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",1.0,0.01725625539257981
+805.0,Whitefield,"Whitefield Main Road, Sobha Rose Apartment, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",1.0,0.01725625539257981
+798.0,K.R. Pura,"MBT Road, Subhams Antique City, Konadasapura, Bengaluru, Karnataka. Pin-560049 (India)",0.99,0.017083692838654012
+909.0,Whitefield,"Gunjurupalya Road, Sapthagiri Nirvana, Gunjur, Bengaluru, Karnataka. Pin-560087 (India)",0.99,0.017083692838654012
+1568.0,Mahadevapura,"Hoodi Main Road, Thigalarapalya, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)",0.99,0.017083692838654012
+631.0,Kodigehalli,"Tindlu Road, Dasappa Layout, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)",0.9899999999999999,0.01708369283865401
+506.0,Basavanagudi,"10th Main Road, Sri Srinivasa Nagar Circle, Banashankari Stage 1, Bengaluru, Karnataka. Pin-560050 (India)",0.9899999999999999,0.01708369283865401
+863.0,Pulikeshinagar(F.Town),"Tank Road, Mother Teresa Circle, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)",0.9899999999999999,0.01708369283865401
+122.0,R.T. Nagar,"2nd Cross Road, Mariappa Garden, RT Nagar, Bengaluru, Karnataka. Pin-560032 (India)",0.9899999999999999,0.01708369283865401
+868.0,Jeevanbheemanagar,"100 Feet Road, Sri Krishnappa Layout, Indiranagar, Bengaluru, Karnataka. Pin-560038 (India)",0.96,0.016566005176876616
+764.0,Vijayanagara,"Chord Road, Dhobi Ghat Junction, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",0.91,0.015703192407247626
+288.0,Ashok Nagar,"Field Marshal KM Cariappa Road, Brigade Road Junction, Ashok Nagar, Bengaluru, Karnataka. Pin-560025 (India)",0.9099999999999999,0.015703192407247626
+595.0,Basavanagudi,"Church Road, Madhav Rao Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)",0.8999999999999999,0.015530629853321827
+644.0,Mico Layout,"Hosur Road, Bren Optimus, Dairy Colony, Adugodi, Bengaluru, Karnataka. Pin-560029 (India)",0.8999999999999999,0.015530629853321827
+323.0,Yelahanka,"Bengaluru Bellary Road, Uday Nagar, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)",0.8999999999999999,0.015530629853321827
+118.0,Cubbon Park,"AH 43, Anil Kumble Chowk, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.8999999999999999,0.015530629853321827
+728.0,Banaswadi,"5th A Cross Road, HRBR Layout Extension, Kalyan Nagar, Bengaluru, Karnataka. Pin-560043 (India)",0.8999999999999999,0.015530629853321827
+733.0,Yelahanka,"Doddaballapur Main Road, Isak Layout, Anantapura, Bengaluru, Karnataka. Pin-560064 (India)",0.8999999999999999,0.015530629853321827
+124.0,Rajajinagar,"Dr Rajkumar Puniya Bhoomi Road, Narasimhaswamy Layout, Laggere, Bengaluru, Karnataka. Pin-560058 (India)",0.8999999999999999,0.015530629853321827
+933.0,Malleshwaram,"8th Cross Road, RR Palace, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)",0.8999999999999999,0.015530629853321827
+380.0,Vijayanagara,"Chord Road, Basava Mantapa Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",0.8500000000000001,0.014667817083692839
+477.0,HAL Old Airport,"Outer Ring Road, Vajram Onyx, Devara Beesana Halli, Bengaluru, Karnataka. Pin-560103 (India)",0.8500000000000001,0.014667817083692839
+115.0,HSR Layout,"Agara Junction Flyover, Agara, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",0.8500000000000001,0.014667817083692839
+58.0,Kamakshipalya,"G Narayana Kumar Road, Soundarya Kamakshi, Karekallu, Kamakshipalya, Bengaluru, Karnataka. Pin-560079 (India)",0.8500000000000001,0.014667817083692839
+109.0,HAL Old Airport,"Panathur Main Road, Mariyappa Layout, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)",0.8500000000000001,0.014667817083692839
+33.0,Mico Layout,"Bannerghatta Main Road, Sobha Magnolia, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)",0.8500000000000001,0.014667817083692839
+503.0,Cubbon Park,"Mahatma Gandhi Road, Cauvery Junction, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.8500000000000001,0.014667817083692839
+1523.0,Pulikeshinagar(F.Town),"Mosque Road, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)",0.8250000000000001,0.014236410698878344
+1148.0,K.R. Pura,"South 3rd Road, SM Layout, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)",0.8250000000000001,0.014236410698878344
+1180.0,Jalahalli,"SM Road, Prasad Enclave, Jalahalli, Bengaluru, Karnataka. Pin-560015 (India)",0.8250000000000001,0.014236410698878344
+1535.0,Mico Layout,"Outer Ring Road, Ram Sridhar Apartment, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)",0.8250000000000001,0.014236410698878344
+1198.0,Whitefield,"Sri Karumariamman Temple Road, DS Max Spark, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",0.8250000000000001,0.014236410698878344
+1531.0,Electronic City,"NICE Road, Greenfinch Vallerian, Beretana Agarhara, Bengaluru, Karnataka. Pin-560100 (India)",0.8250000000000001,0.014236410698878344
+1517.0,Halasur,"Old Airport Road, ASC Junction, Agaram, Bengaluru, Karnataka. Pin-560007 (India)",0.8250000000000001,0.014236410698878344
+1537.0,Electronic City,"Hosur Road, Pramuk Aqua Heights, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",0.8250000000000001,0.014236410698878344
+31.0,Magadi Road,"Magadi Road, Sobha Indraprastha, Magadi Road Area, Bengaluru, Karnataka. Pin-560023 (India)",0.8250000000000001,0.014236410698878344
+1082.0,Mahadevapura,"Whitefield Road, Bhoruka Tech Park, Mahadevapura Industrial Area, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)",0.8250000000000001,0.014236410698878344
+1096.0,Rajajinagar,"17th Main Road, RIECHS Layout, Kurubarahalli, Bengaluru, Karnataka. Pin-560086 (India)",0.8250000000000001,0.014236410698878344
+1624.0,Wilson Garden,"Hosur Road, Kengal Hanumanthaiah Circle, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)",0.8250000000000001,0.014236410698878344
+1542.0,Sadashivanagar,"11th Cross Road, Sadashivanagar Junction, Armane Nagar, Bengaluru, Karnataka. Pin-560094 (India)",0.8250000000000001,0.014236410698878344
+1097.0,Electronic City,"Hosur Road, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",0.8250000000000001,0.014236410698878344
+179.0,Electronic City,"Hosur Road, Muthurayappa Estate, Bommasandra, Bengaluru, Karnataka. Pin-560099 (India)",0.8250000000000001,0.014236410698878344
+743.0,Chikkabanavara,"Mumbai Bengaluru Highway, Makali, Bengaluru, Karnataka. Pin-562162 (India)",0.8250000000000001,0.014236410698878344
+1504.0,Peenya,"3rd Main Road, Chakkasandra, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",0.8250000000000001,0.014236410698878344
+740.0,Banaswadi,"MBT Road, Jyothipuram, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)",0.8250000000000001,0.014236410698878344
+1103.0,Sadashivanagar,"13th Cross Road, Palace Orchard Apartment, RMV Extension, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560080 (India)",0.8250000000000001,0.014236410698878344
+244.0,Sadashivanagar,"Sankey Road, Malleshwaram 18th Cross Junction, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)",0.8250000000000001,0.014236410698878344
+1164.0,K.R. Pura,"5th Main Road, Block 4 Brindavan Layout, Ayyappa Nagar, KR Puram, Bengaluru, Karnataka. Pin-560036 (India)",0.8250000000000001,0.014236410698878344
+1124.0,Devanahalli Airport,"DVN MD 7, Boovanahalli, Devanahalli, Bengaluru Rural District, Karnataka. Pin-562110 (India)",0.8250000000000001,0.014236410698878344
+1356.0,Kengeri,"Nice Bangalore Mysore Expressway, Hanumanthappa Layout, Hosakerehalli, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)",0.8250000000000001,0.014236410698878344
+995.0,Wilson Garden,"Lalbagh Main Road, Pride Hulkul, Vinoba Nagar, Kalasipalyam, Bengaluru, Karnataka. Pin-560027 (India)",0.8250000000000001,0.014236410698878344
+1414.0,HAL Old Airport,"Yemalur Road, 77.com, 77 Town Centre, Yemlur, Bengaluru, Karnataka. Pin-560037 (India)",0.8250000000000001,0.014236410698878344
+1282.0,Whitefield,"5th Cross Road, Brooke Bond, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",0.8250000000000001,0.014236410698878344
+479.0,Pulikeshinagar(F.Town),"Pottery Road, Pottery Road CHS, Cooke Town, Bengaluru, Karnataka. Pin-560005 (India)",0.8250000000000001,0.014236410698878344
+480.0,Mahadevapura,"Whitefield Road, Sadaramangala Industrial Area, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",0.8250000000000001,0.014236410698878344
+485.0,Jalahalli,"SM Road, Subroto Enclave, Jalahalli West, Bengaluru, Karnataka. Pin-560015 (India)",0.8250000000000001,0.014236410698878344
+328.0,Pulikeshinagar(F.Town),"Assayee Road, Meanee Avenue Layout, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)",0.8250000000000001,0.014236410698878344
+1233.0,Jeevanbheemanagar,"3rd Cross Road, Krishna Reddy Layout, Jeevan Bima Nagar, Bengaluru, Karnataka. Pin-560075 (India)",0.8250000000000001,0.014236410698878344
+69.0,Electronic City,"4th Main Road, Abbaiah Reddy Layout, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",0.8250000000000001,0.014236410698878344
+339.0,Thalagattapura,"Konanakunte Main Road, Gopalan Jewels, Siddanna Layout, Bikaspura, Bengaluru, Karnataka. Pin-560062 (India)",0.8250000000000001,0.014236410698878344
+1241.0,Electronic City,"Hosur Road, Keerthi Royal Palms, Beretana Agarhara, Bengaluru, Karnataka. Pin-560100 (India)",0.8250000000000001,0.014236410698878344
+538.0,K.R. Pura,"Rampura Main Road, Avalahalli South Taluka, Bengaluru, Karnataka. Pin-560049 (India)",0.8250000000000001,0.014236410698878344
+1217.0,Jalahalli,"Rajatha Bhavana Road, Dr K Shivaramakarantha Circle, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)",0.8250000000000001,0.014236410698878344
+1247.0,Kamakshipalya,"Magadi Main Road, Vishweshwaraya Nagar, Anjana Nagar, Herohalli, Bengaluru, Karnataka. Pin-560091 (India)",0.8250000000000001,0.014236410698878344
+1248.0,Thalagattapura,"Konanakunte Main Road, Thalaghattapura, Bengaluru, Karnataka. Pin-560109 (India)",0.8250000000000001,0.014236410698878344
+980.0,Whitefield,"Sarjapura Main Road, Muthanallur Cross, Dommasandra Anekal Taluka, Bengaluru, Karnataka. Pin-562125 (India)",0.8250000000000001,0.014236410698878344
+1396.0,Thalagattapura,"NICE Road, NICE Road Cloverleaf Junction, Varahasandra, Bengaluru, Karnataka. Pin-560060 (India)",0.8250000000000001,0.014236410698878344
+524.0,Malleshwaram,"80 Feet Ring Road, Dr Rajkumar Road 10th Cross Junction, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",0.8250000000000001,0.014236410698878344
+511.0,Halasuru Gate,"Dr Ambedkar Road, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.8250000000000001,0.014236410698878344
+1399.0,Thalagattapura,"NICE Road, Nagegowda Palya, Bengaluru, Karnataka. Pin-560109 (India)",0.8250000000000001,0.014236410698878344
+1397.0,Thalagattapura,"NICE Road, The Little Valley, Rachanamadu, Bengaluru, Karnataka. Pin-560062 (India)",0.8250000000000001,0.014236410698878344
+375.0,Shivajinagar,"Casuarina Street, Balappa Garden, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)",0.8250000000000001,0.014236410698878344
+1228.0,Devanahalli Airport,"Devanahalli Bypass, Akkupet, Devanahalli, Bengaluru Rural District, Karnataka. Pin-562110 (India)",0.8250000000000001,0.014236410698878344
+1298.0,Chikkabanavara,"Hesaraghatta Main Road, Nisarga Layout, Bagalagunte, Bengaluru, Karnataka. Pin-560073 (India)",0.8250000000000001,0.014236410698878344
+462.0,Thalagattapura,"Konanakunte Main Road, Hosahalli South Taluka, Bengaluru, Karnataka. Pin-560109 (India)",0.8250000000000001,0.014236410698878344
+637.0,Electronic City,"4th Main Road, Nanjuda Reddy Layout, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",0.8250000000000001,0.014236410698878344
+1341.0,Bellandur,"Sarjapura Main Road, Bellandur Gate, Bellandur, Bengaluru, Karnataka. Pin-560102 (India)",0.8250000000000001,0.014236410698878344
+885.0,Rajajinagar,"17th Main Road, RIECHS Layout, Kurubarahalli, Bengaluru, Karnataka. Pin-560086 (India)",0.8250000000000001,0.014236410698878344
+597.0,Electronic City,"Neeladri Road, Concorde Cuppertino, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",0.8250000000000001,0.014236410698878344
+1570.0,Malleshwaram,"80 Feet Ring Road, Dr Rajkumar Road 17th Cross Junction, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",0.8250000000000001,0.014236410698878344
+47.0,Devanahalli Airport,"Bangalore Bellary Road, Nitesh Long Land, Devanahalli, Karnataka. Pin-562110 (India)",0.8250000000000001,0.014236410698878344
+447.0,Kamakshipalya,"Magadi Main Road, Byadrahalli, Bengaluru, Karnataka. Pin-560091 (India)",0.8250000000000001,0.014236410698878344
+1284.0,Kamakshipalya,"Dr Rajkumar Puniya Bhoomi Road, Sattva Anugraha, Kamakshipalya, Bengaluru, Karnataka. Pin-560079 (India)",0.8250000000000001,0.014236410698878344
+1287.0,Kamakshipalya,"Dr Rajkumar Puniya Bhoomi Road, Ramakrishna Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",0.8250000000000001,0.014236410698878344
+1309.0,Whitefield,"Sarjapura Main Road, Ambedkar Nagar, Chikkabellandur, Bengaluru, Karnataka. Pin-560035 (India)",0.8250000000000001,0.014236410698878344
+1215.0,Whitefield,"Vibgyor High School Road, Vaswani Menlo Park, Thubarahalli, Bengaluru, Karnataka. Pin-560066 (India)",0.8250000000000001,0.014236410698878344
+666.0,Vijayanagara,"Kurubarahalli Main Road, Shankarmata Circle, Basaveshwara Nagar, Bengaluru, Karnataka. Pin-560086 (India)",0.825,0.014236410698878342
+343.0,Peenya,"Nagasandra Layout Main Road, Arvind Oasis, Nagasandra, Bengaluru, Karnataka. Pin-560073 (India)",0.825,0.014236410698878342
+57.0,Chamarajpet,"1st Cross Road, Akkimakalamna Gudi, Cottonpete, Bengaluru, Karnataka. Pin-560053 (India)",0.825,0.014236410698878342
+259.0,R.T. Nagar,"Jayamahal Main Road, Vasanth Enclave, JC Nagar, Bengaluru, Karnataka. Pin-560006 (India)",0.825,0.014236410698878342
+1558.0,Jeevanbheemanagar,"Old Madras Road, BDA Complex, Indiranagar, Bengaluru, Karnataka. Pin-560038 (India)",0.8,0.013805004314063849
+91.0,Adugodi,"1st B Main Road, Block 7, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)",0.8,0.013805004314063849
+489.0,Hebbala,"MBT Road, Yogesh Nagar, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",0.8,0.013805004314063849
+387.0,HSR Layout,"Outer Ring Road, Sai Nandana Residency, Teachers Colony, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",0.8,0.013805004314063849
+369.0,Kamakshipalya,"Magadi Main Road, Herohalli Cross, Madeshwara Nagar, Bengaluru, Karnataka. Pin-560091 (India)",0.8,0.013805004314063849
+101.0,Mico Layout,"Bannerghatta Main Road, Mantri Elegance Shopping Mall, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)",0.8,0.013805004314063849
+785.0,Byatarayanapura,"Chord Road, BHEL Township, Widia Layout, Vijaya Nagar, Bengaluru, Karnataka. Pin-560040 (India)",0.8,0.013805004314063849
+1506.0,HSR Layout,"Outer Ring Road, Sai Nandana Residency, Teachers Colony, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",0.8,0.013805004314063849
+505.0,Bellandur,"Outer Ring Road, Kristal Jade, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)",0.8,0.013805004314063849
+1536.0,Byatarayanapura,"Mysore Road, Helmet Junction, Deepanjali Nagar, Bengaluru, Karnataka. Pin-560026 (India)",0.8,0.013805004314063849
+779.0,Jeevanbheemanagar,"Old Airport Road, Carlton Towers, HAL Stage 2, Indiranagar, Bengaluru, Karnataka. Pin-560008 (India)",0.8,0.013805004314063849
+811.0,Yeshwanthpura,"MS Ramaiah Road, PW Frames Colony, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",0.8,0.013805004314063849
+473.0,HAL Old Airport,"Old Airport Road, Airport Area, Bengaluru, Karnataka. Pin-560017 (India)",0.8,0.013805004314063849
+1000.0,Jalahalli,"1st Main Road, Seetharam Industrial Estate, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)",0.8,0.013805004314063849
+986.0,Magadi Road,"Magadi Road, Magadi Road Area, Bengaluru, Karnataka. Pin-560023 (India)",0.8,0.013805004314063849
+40.0,Bellandur,"Sarjapura Main Road, Sri Balaji Layout, Bellandur Gate, Bellandur, Bengaluru, Karnataka. Pin-560102 (India)",0.8,0.013805004314063849
+775.0,Hennuru,"Thanisandra Main Road, Thanisandra Circle, Thanisandra, Bengaluru, Karnataka. Pin-560077 (India)",0.8,0.013805004314063849
+710.0,Hulimavu,"Bannerghatta Main Road, Pride Regalia Apartment, Hulimavu, Bengaluru, Karnataka. Pin-560076 (India)",0.8,0.013805004314063849
+658.0,Hebbala,"MBT Road, SNN Clermont, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",0.8,0.013805004314063849
+1496.0,Electronic City,"1st Cross Road, Singasandra Industrial Estate, Begur, Bengaluru, Karnataka. Pin-560068 (India)",0.8,0.013805004314063849
+1199.0,R.T. Nagar,"CBI Main Road, KGH Layout, Ganga Nagar, Bengaluru, Karnataka. Pin-560032 (India)",0.8,0.013805004314063849
+617.0,Halasur,"Murphy Road, Begum Mahal Junction, Halasuru, Bengaluru, Karnataka. Pin-560008 (India)",0.8,0.013805004314063849
+280.0,Vijayanagara,"G Narayana Kumar Road, Jai Maniurao Circle, Vijaya Nagar, Bengaluru, Karnataka. Pin-560040 (India)",0.8,0.013805004314063849
+1476.0,Ashok Nagar,"Arab Lane B Street, Senior Police Officers Residential Complex, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)",0.8,0.013805004314063849
+1617.0,Halasuru Gate,"District Office Road, Cubbonpet, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)",0.8,0.013805004314063849
+1451.0,Adugodi,"Domlur Inner Ring Road, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)",0.8,0.013805004314063849
+593.0,Hebbala,"MBT Road, New Layout, RT Nagar Post, Bengaluru, Karnataka. Pin-560032 (India)",0.8,0.013805004314063849
+316.0,Mico Layout,"Bannerghatta Main Road, Bilekahalli Junction, Bilekahalli, Bengaluru, Karnataka. Pin-560076 (India)",0.8,0.013805004314063849
+960.0,Jeevanbheemanagar,"Suranjan Das Road, Duo Harmony, Binnamangala, Indiranagar, Bengaluru, Karnataka. Pin-560038 (India)",0.8,0.013805004314063849
+769.0,Shivajinagar,"Cubbon Road, Mayo Hall Junction, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)",0.8,0.013805004314063849
+1147.0,Banaswadi,"MBT Road, Rajeev Nagar, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)",0.8,0.013805004314063849
+139.0,Magadi Road,"G Narayana Kumar Road, Shri Balagangadharanath Swamiji Circle, Vijaya Nagar, Bengaluru, Karnataka. Pin-560040 (India)",0.8,0.013805004314063849
+1503.0,Magadi Road,"G Narayana Kumar Road, Annapurneshwari Industrial Area, Magadi Road Area, Bengaluru, Karnataka. Pin-560023 (India)",0.8,0.013805004314063849
+535.0,Banashankari,"Dr Rajkumar Puniya Bhoomi Road, Phase 2 Block 7, Hosakerehalli, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)",0.8,0.013805004314063849
+523.0,Yelahanka,"Bellary Road, NCC Urban Windsor, Yashoda Nagar, Yelahanka, Bengaluru, Karnataka. Pin-560065 (India)",0.8,0.013805004314063849
+760.0,Whitefield,"HAL Airport Road, Thubarahalli, Bengaluru, Karnataka. Pin-560066 (India)",0.8,0.013805004314063849
+1538.0,Wilson Garden,"Bannerghatta Main Road, Dairy Circle, Adugodi, Bengaluru, Karnataka. Pin-560029 (India)",0.8,0.013805004314063849
+755.0,Mahadevapura,"Outer Ring Road, Durga Rainbow, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)",0.8,0.013805004314063849
+1099.0,Ashok Nagar,"Richmond Road, Purva Premiere, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)",0.8,0.013805004314063849
+610.0,Mico Layout,"Bannerghatta Main Road, Gopalan Innovation Mall, JP Nagar Phase 3, Bengaluru, Karnataka. Pin-560078 (India)",0.8,0.013805004314063849
+236.0,Vijayanagara,"Chord Road, Remco Housing Cooperative Society, RPC Layout, Vijaya Nagar Stage 2, Bengaluru, Karnataka. Pin-560104 (India)",0.8,0.013805004314063849
+338.0,Whitefield,"HAL Airport Road, Parimala Sunridge, Siddapura, Bengaluru, Karnataka. Pin-560066 (India)",0.8,0.013805004314063849
+1229.0,HSR Layout,"Outer Ring Road, Mantri Sarovar, Sector 4, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",0.8,0.013805004314063849
+134.0,Hebbala,"MBT Road, SNN Clermont, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",0.8,0.013805004314063849
+1299.0,Yeshwanthpura,"Watch Factory Road, CMTI Quarters, Peenya, Bengaluru, Karnataka. Pin-560022 (India)",0.75,0.012942191544434857
+654.0,Shivajinagar,"Cubbon Road, Dickenson Road Junction, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)",0.7150000000000001,0.012338222605694565
+214.0,Banashankari,"Dr Rajkumar Puniya Bhoomi Road, Veerannana Guda, Veerabhadra Nagar, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)",0.7150000000000001,0.012338222605694565
+1122.0,Chikkajala,"Bengaluru Bellary Road, Railway Annaiappan Nagar, Chikkajala, Bengaluru, Karnataka. Pin-562157 (India)",0.7150000000000001,0.012338222605694565
+1174.0,Chikkajala,"Bagaluru Main Road, Halcyon Defence Enclave, Satanur, Bengaluru, Karnataka. Pin-562149 (India)",0.66,0.011389128559102674
+1593.0,Ashok Nagar,"Hosur Road, Muniswamy Garden, Nilsandra, Bengaluru, Karnataka. Pin-560025 (India)",0.66,0.011389128559102674
+852.0,J.P. Nagar,"16th Cross Road, Rose Garden, JP Nagar Phase 6, Bengaluru, Karnataka. Pin-560078 (India)",0.6,0.010353753235547885
+943.0,Malleshwaram,"14th Cross Road, Block 1, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",0.6,0.010353753235547885
+200.0,Yelahanka,"Bellary Road, Century Horizon, Yashoda Nagar, Yelahanka, Bengaluru, Karnataka. Pin-560065 (India)",0.6,0.010353753235547885
+1393.0,Yelahanka,"Bengaluru Bellary Road, Ecopolis, Yelahanka, Bengaluru, Karnataka. Pin-560063 (India)",0.6,0.010353753235547885
+1526.0,Chamarajpet,"Cart Street, Jai Bheema Nagar, Cottonpete, Bengaluru, Karnataka. Pin-560053 (India)",0.6,0.010353753235547885
+1083.0,Halasur,"Ulsoor Road, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)",0.6,0.010353753235547885
+1500.0,Ashok Nagar,"Commissariat Road, Garuda Mall, Ashok Nagar, Bengaluru, Karnataka. Pin-560025 (India)",0.6,0.010353753235547885
+264.0,Malleshwaram,"Da Ra Bendre Road, Block 1R, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",0.6,0.010353753235547885
+492.0,High ground,"Palace Loop Cross Road, Kalpana Circle, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.6,0.010353753235547885
+141.0,Chikkajala,"Bengaluru Bellary Road, Vidyanagar Junction, Chikkajala, Bengaluru, Karnataka. Pin-562157 (India)",0.6,0.010353753235547885
+409.0,HAL Old Airport,"Outer Ring Road, Rajiv Nagar, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)",0.6,0.010353753235547885
+1013.0,Yelahanka,"Bengaluru Bellary Road, Bharthi Nagar, Hunasamaranahalli, Bengaluru, Karnataka. Pin-562157 (India)",0.55,0.009490940465918895
+1540.0,Ashok Nagar,"Wellington Street, Spartan Heights Apartments, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)",0.55,0.009490940465918895
+1495.0,Banashankari,"80 Feet Main Road, VBHCS Layout, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)",0.55,0.009490940465918895
+1450.0,Byatarayanapura,"Bangarappa Nagar Road, BDA Layout, Pantarapalya, Bengaluru, Karnataka. Pin-560039 (India)",0.55,0.009490940465918895
+1552.0,Banaswadi,"MBT Road, Hennuru Junction, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)",0.55,0.009490940465918895
+1422.0,Electronic City,"Electronics City Flyover, AECS Layout B Block, Singasandra, Bengaluru, Karnataka. Pin-560068 (India)",0.55,0.009490940465918895
+1366.0,Whitefield,"HAL Airport Road, Pride Orchid, Thubarahalli, Bengaluru, Karnataka. Pin-560066 (India)",0.55,0.009490940465918895
+1559.0,Cubbon Park,"Cubbon Road, Chalukya Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.55,0.009490940465918895
+992.0,Chamarajpet,"AS Char Main Road, Sultanpete, Bengaluru, Karnataka. Pin-560053 (India)",0.55,0.009490940465918895
+1562.0,City Market,"BGS Flyover, Sri Krishna Rajendra Market, Chickpete, Bengaluru, Karnataka. Pin-560002 (India)",0.55,0.009490940465918895
+1632.0,Yelahanka,"Bellary Road, Nitesh Central Park, Vinayak Nagar, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)",0.55,0.009490940465918895
+1346.0,Kamakshipalya,"Magadi Main Road, Herohalli Cross, Madeshwara Nagar, Bengaluru, Karnataka. Pin-560091 (India)",0.55,0.009490940465918895
+1283.0,Whitefield,"HAL Airport Road, Sumadhura LNR Lake Breeze, Siddapura, Bengaluru, Karnataka. Pin-560066 (India)",0.55,0.009490940465918895
+1572.0,Adugodi,"Hosur Road, UCO Bank Junction, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)",0.55,0.009490940465918895
+1175.0,Mahadevapura,"Outer Ring Road, Durga Petals, Doddanekundi, Bengaluru, Karnataka. Pin-560037 (India)",0.55,0.009490940465918895
+1163.0,R.T. Nagar,"Binny Mill Main Road, Gunatha Vihar, Ganga Nagar, Bengaluru, Karnataka. Pin-560006 (India)",0.55,0.009490940465918895
+1631.0,Jayanagara,"East End A Main Road, SRK Garden, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)",0.55,0.009490940465918895
+930.0,Banaswadi,"Outer Ring Road, Ranka Junction, Annaiah Reddy Industrial Area, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)",0.55,0.009490940465918895
+620.0,Electronic City,"Hosur Road, Ramaiah Reddy Layout, Singasandra, Bengaluru, Karnataka. Pin-560068 (India)",0.55,0.009490940465918895
+525.0,Hebbala,"Bellary Road, Kirloskar Business Park, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",0.55,0.009490940465918895
+833.0,Electronic City,"Hosur Road, Channakeshava Nagar, Singasandra, Bengaluru, Karnataka. Pin-560100 (India)",0.55,0.009490940465918895
+803.0,K.G. Halli,"MBT Road, Block 4 Stage 1, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)",0.55,0.009490940465918895
+797.0,Magadi Road,"G Narayana Kumar Road, Old Tollgate, Cholurpalya, Bengaluru, Karnataka. Pin-560023 (India)",0.55,0.009490940465918895
+777.0,Hennuru,"Thanisandra Main Road, King Space Meadows, Hegde Nagar, Bengaluru, Karnataka. Pin-560077 (India)",0.55,0.009490940465918895
+748.0,Yelahanka,"Bengaluru Bellary Road, Bharthi Nagar, Hunasamaranahalli, Bengaluru, Karnataka. Pin-562157 (India)",0.55,0.009490940465918895
+731.0,HAL Old Airport,"Embassy Tech Square Main Road, Embassy Tech Square, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)",0.55,0.009490940465918895
+724.0,Mico Layout,"1st Cross Road, RMZ Futura, Arakere, Bengaluru, Karnataka. Pin-560076 (India)",0.55,0.009490940465918895
+696.0,Jeevanbheemanagar,"Old Madras Road, Bangalore Metropolitan Transport Corporation Quarters, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka. Pin-560038 (India)",0.55,0.009490940465918895
+586.0,Yeshwanthpura,"Mumbai Bengaluru Highway, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",0.55,0.009490940465918895
+531.0,Peenya,"Mumbai Bengaluru Highway, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)",0.55,0.009490940465918895
+917.0,HSR Layout,"13th Main Road, The Metropolitan Cooperative Housing Society, Sector 4, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",0.55,0.009490940465918895
+443.0,Hulimavu,"Hosur Road, Ramaiah Reddy Layout, Singasandra, Bengaluru, Karnataka. Pin-560068 (India)",0.55,0.009490940465918895
+346.0,Hennuru,"Thanisandra Main Road, MSR North City, Nagavara, Bengaluru, Karnataka. Pin-560077 (India)",0.55,0.009490940465918895
+342.0,Yelahanka,"Bengaluru Bellary Road, Ecopolis, Yelahanka, Bengaluru, Karnataka. Pin-560063 (India)",0.55,0.009490940465918895
+320.0,Yelahanka,"Allalasandra Main Road, Legacy Cirocco, Jakkuru, Bengaluru, Karnataka. Pin-560064 (India)",0.55,0.009490940465918895
+311.0,Adugodi,"Hosur Road, National Institute of Animal Nutrition and Physiology, Adugodi, Bengaluru, Karnataka. Pin-560030 (India)",0.55,0.009490940465918895
+300.0,Kodigehalli,"Bellary Road, UAS Campus, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)",0.55,0.009490940465918895
+237.0,Rajajinagar,"80 Feet Ring Road, Harikara Vidvan Sri R Gururajulu Naidu Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",0.55,0.009490940465918895
+213.0,Banaswadi,"MBT Road, Nanjappa Garden, Babusapalya, Bengaluru, Karnataka. Pin-560043 (India)",0.55,0.009490940465918895
+191.0,Bellandur,"Sarjapura Main Road, Iblur Junction, Bellandur, Bengaluru, Karnataka. Pin-560102 (India)",0.55,0.009490940465918895
+189.0,Yelahanka,"Bellary Road, Yashoda Nagar, Yelahanka, Bengaluru, Karnataka. Pin-560065 (India)",0.55,0.009490940465918895
+155.0,Madiwala,"Hosur Road, Garvebavipalya Junction, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)",0.55,0.009490940465918895
+104.0,Kodigehalli,"Gundappa Road, Nagashetty Halli, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)",0.55,0.009490940465918895
+71.0,Banaswadi,"5th A Cross Road, Chelekere, Bengaluru, Karnataka. Pin-560043 (India)",0.55,0.009490940465918895
+49.0,HAL Old Airport,"Embassy Tech Square Main Road, Featherlite The Address, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)",0.55,0.009490940465918895
+34.0,HAL Old Airport,"Outer Ring Road, Sumadhura Platinum Square, Kadubisanahalli, Bengaluru, Karnataka. Pin-560037 (India)",0.55,0.009490940465918895
+15.0,Hebbala,"Bellary Road, Renaissance Prospero Apartment, Kashi Nagar, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)",0.55,0.009490940465918895
+12.0,Mahadevapura,"1st Main Road, BSNL CACT Building, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)",0.55,0.009490940465918895
+807.0,Banashankari,"80 Feet Main Road, Hoaskerehalli Circle, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)",0.55,0.009490940465918895
+1642.0,Mico Layout,"Jayadeva BTM Underpass, Jayadeva Junction, BTM Layout Stage 1, Bengaluru, Karnataka. Pin-560029 (India)",0.55,0.009490940465918895
+912.0,HAL Old Airport,"1st Main Road, Roshni Tech Hub, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)",0.55,0.009490940465918895
+1012.0,Peenya,"9th Main Road, Duggalamma Badavane, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",0.5399999999999999,0.009318377911993097
+330.0,Basavanagudi,"KR Main Road, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)",0.5399999999999999,0.009318377911993097
+1579.0,Banashankari,"Konanakunte Main Road, Block 7, Jayanagar, Bengaluru, Karnataka. Pin-560070 (India)",0.5399999999999999,0.009318377911993097
+97.0,Basavanagudi,"5th Cross Road, 2nd Block, Ashok Nagar, Banashankari Stage 1, Bengaluru, Karnataka. Pin-560050 (India)",0.5399999999999999,0.009318377911993097
+948.0,Kengeri,"Nice Road, The Green Valley Address, Doddabele, Bengaluru, Karnataka. Pin-560060 (India)",0.5399999999999999,0.009318377911993097
+727.0,Yeshwanthpura,"MS Ramaiah College Road, MSR Students Enclave, Mathikere Extension, Bengaluru, Karnataka. Pin-560054 (India)",0.5399999999999999,0.009318377911993097
+116.0,Halasur,"Old Airport Road, Golden Jubilee Complex, Agaram, Bengaluru, Karnataka. Pin-560007 (India)",0.5399999999999999,0.009318377911993097
+1137.0,Whitefield,"Sarjapura Main Road, Swami Vivekananda Nagar, Sulikunte, Bengaluru, Karnataka. Pin-562125 (India)",0.5399999999999999,0.009318377911993097
+692.0,Adugodi,"80 Feet Road, Block 1, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",0.5399999999999999,0.009318377911993097
+168.0,Jnanabharathi,"Mariyappanapalya Main Road, Dhanvanthri Layout, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)",0.5399999999999999,0.009318377911993097
+174.0,Jayanagara,"36th Cross Road, Shri Satya Sai Circle, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)",0.5399999999999999,0.009318377911993097
+576.0,Peenya,"5th Cross Road, Industrial Area Stage 1, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",0.5399999999999999,0.009318377911993097
+1080.0,Malleshwaram,"Siddavanahalli Krishna Sharma Road, Malleshwara Extension, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)",0.5399999999999999,0.009318377911993097
+557.0,High ground,"Palace Road, Kumar Park, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.5399999999999999,0.009318377911993097
+1525.0,Malleshwaram,"80 Feet Ring Road, Ketamaranahalli, Block 1, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",0.5399999999999999,0.009318377911993097
+262.0,Basavanagudi,"RV Road, Parasmani Regency, Block 2, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)",0.5399999999999999,0.009318377911993097
+1290.0,Jayanagara,"Tilak Nagar Main Road, Block 3 East Jayanagar, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)",0.5399999999999999,0.009318377911993097
+1325.0,Banaswadi,"100 Feet Road, Ankanna Reddy Layout, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)",0.5399999999999999,0.009318377911993097
+367.0,Upparpet,"1st Main Road, Jakkarayana Kere, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)",0.5399999999999999,0.009318377911993097
+1402.0,Hennuru,"Narayanapur Cross Road, Yajaman M Nanjappa Circle, Kothnur Narayanapura, Bengaluru, Karnataka. Pin-560077 (India)",0.5399999999999999,0.009318377911993097
+1412.0,Jalahalli,"Watch Factory Road, Brigade Rubix, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",0.5399999999999999,0.009318377911993097
+878.0,Jayanagara,"10th Main Road, Madhavan Circle, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)",0.5399999999999999,0.009318377911993097
+1084.0,Malleshwaram,"GP Rajarathnam Road, Navratna Apartment, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)",0.5399999999999999,0.009318377911993097
+965.0,Sadashivanagar,"1st Cross Road, RK Garden, RMV Stage 2, Bengaluru, Karnataka. Pin-560054 (India)",0.5399999999999999,0.009318377911993097
+1640.0,Wilson Garden,"BTS Main Road, NGO Colony, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)",0.5399999999999999,0.009318377911993097
+937.0,Jeevanbheemanagar,"Sir CV Raman Hospital Road, George Thangiah Complex, Michaelpalya, Indiranagar, Bengaluru, Karnataka. Pin-560038 (India)",0.5399999999999999,0.009318377911993097
+1061.0,Jayanagara,"7th B Main Road, Shri Vinayaka Circle, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)",0.5399999999999999,0.009318377911993097
+1057.0,Basavanagudi,"Shri BP Wadia Road, Madhav Rao Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)",0.5399999999999999,0.009318377911993097
+838.0,Ashok Nagar,"Commissariat Road, Garuda Mall, Ashok Nagar, Bengaluru, Karnataka. Pin-560025 (India)",0.5399999999999999,0.009318377911993097
+844.0,Sadashivanagar,"Shri Bala Anjaneya Swami Temple Road, MS Ramaiah Hospital Junction, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)",0.5399999999999999,0.009318377911993097
+1051.0,Halasur,"Kensington Road, Kalhalli, Halasuru, Bengaluru, Karnataka. Pin-560042 (India)",0.5399999999999999,0.009318377911993097
+1075.0,Upparpet,"Anand Rao Flyover, R Subanna Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.5399999999999999,0.009318377911993097
+1629.0,High ground,"7th Cross Road, Valliappa Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.5399999999999999,0.009318377911993097
+1077.0,Vijayanagara,"7th A Cross Road, DOS ISRO Housing Colony, RPC Layout, Vijaya Nagar Stage 2, Bengaluru, Karnataka. Pin-560040 (India)",0.5399999999999999,0.009318377911993097
+996.0,Halasur,"Mahatma Gandhi Road, WEBBS Circle Junction, Ashok Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.5,0.008628127696289905
+251.0,Yelahanka,"Yelahanka Road, Nagarjuna Aster Park, Yelahanka New Town, Bengaluru, Karnataka. Pin-560064 (India)",0.44999999999999996,0.0077653149266609135
+223.0,Kodigehalli,"Dr Rajgopal Road, Basappa Layout, Sanjay Nagar, Bengaluru, Karnataka. Pin-560094 (India)",0.44999999999999996,0.0077653149266609135
+1249.0,Hennuru,"Hennur Main Road, True North by Livingwalls, Kuvempu Layout, Visthar, Bengaluru, Karnataka. Pin-560077 (India)",0.44999999999999996,0.0077653149266609135
+836.0,Peenya,"S Nataraj Kumar Road, Industrial Area Stage 2, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",0.44999999999999996,0.0077653149266609135
+449.0,Chikkajala,"SH 104, Mylanahalli, Bengaluru, Karnataka. Pin-562149 (India)",0.44999999999999996,0.0077653149266609135
+263.0,Basavanagudi,"RV Road, Teachers College Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)",0.44999999999999996,0.0077653149266609135
+450.0,Yelahanka,"Doddaballapur Main Road, Pavani Residency, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)",0.44999999999999996,0.0077653149266609135
+454.0,Adugodi,"Bannerghatta Main Road, Gupta Layout, Lakkasandra, Bengaluru, Karnataka. Pin-560030 (India)",0.44999999999999996,0.0077653149266609135
+1498.0,Mahadevapura,"Channasandra Main Road, Srinivasa Sunridge, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",0.44999999999999996,0.0077653149266609135
+1293.0,Yelahanka,"Kogilu Main Road, Ponnappa Layout, Srinivasapur, Bengaluru, Karnataka. Pin-560064 (India)",0.44999999999999996,0.0077653149266609135
+817.0,K.R. Pura,"Kodigehalli Main Road, HA Basi Reddy Layout, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)",0.44999999999999996,0.0077653149266609135
+521.0,K.S. Layout,"Uttarahalli Main Road, VVR Supreme Residency, Chikkalsandra, Bengaluru, Karnataka. Pin-560061 (India)",0.44999999999999996,0.0077653149266609135
+1516.0,Mahadevapura,"Whitefield Road, Hoodi Circle, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)",0.44999999999999996,0.0077653149266609135
+463.0,Sadashivanagar,"Sankey Road, Gokak Chaluvali Smaranartha Circle, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)",0.44999999999999996,0.0077653149266609135
+1285.0,Banaswadi,"Indian Oil Flyover, Seva Nagar, New Lingarajapuram, Bengaluru, Karnataka. Pin-560033 (India)",0.44999999999999996,0.0077653149266609135
+464.0,Peenya,"100 Feet Road, SBM Circle, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",0.44999999999999996,0.0077653149266609135
+973.0,Electronic City,"Neeladri Road, Himagiri Residency, Bettadasanapura, Bengaluru, Karnataka. Pin-560100 (India)",0.44999999999999996,0.0077653149266609135
+474.0,Yelahanka,"Doddaballapur Main Road, Veracious Vani Vilas, Residential Quarters, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)",0.44999999999999996,0.0077653149266609135
+874.0,J.P. Nagar,"9th Cross Road, Jeevan Mitra Apartment, Jeevan Sathi Colony, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560078 (India)",0.44999999999999996,0.0077653149266609135
+227.0,Cubbon Park,"Sri ML Subbaraju Road, Walton Road Circle, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.44999999999999996,0.0077653149266609135
+810.0,Whitefield,"27th Cross Road, BMG Layout, Varthur Marattahalli, Bengaluru, Karnataka. Pin-560087 (India)",0.44999999999999996,0.0077653149266609135
+1314.0,Mico Layout,"29th Main Road, Tallam Sudha Residency, NS Palya, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)",0.44999999999999996,0.0077653149266609135
+1079.0,Yeshwanthpura,"MS Ramaiah Road, Mattikere Layout, Mathikere Extension, Bengaluru, Karnataka. Pin-560054 (India)",0.44999999999999996,0.0077653149266609135
+1320.0,Banashankari,"Sri Kumaraswamy Temple Road, Muneshwara Block, Banashankari Stage 1, Bengaluru, Karnataka. Pin-560026 (India)",0.44999999999999996,0.0077653149266609135
+865.0,Peenya,"ABB Cross Road, Narayanapura, Peenya, Bengaluru, Karnataka. Pin-560058 (India)",0.44999999999999996,0.0077653149266609135
+1015.0,Jalahalli,"H Mount Estate Road, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)",0.44999999999999996,0.0077653149266609135
+349.0,Upparpet,"Major T Ramachandrappa Road, RK Puram, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)",0.44999999999999996,0.0077653149266609135
+1016.0,Rajajinagar,"16th C Main Road, Karnataka Layout Stage 1, Kurubarahalli, Bengaluru, Karnataka. Pin-560086 (India)",0.44999999999999996,0.0077653149266609135
+1431.0,Thalagattapura,"NICE Road, Prathana Enclave, Block 4B, Banashankari Stage 6, Bengaluru, Karnataka. Pin-560062 (India)",0.44999999999999996,0.0077653149266609135
+1433.0,Kodigehalli,"Dr Rajgopal Road, GMR Layout, Sanjay Nagar, Bengaluru, Karnataka. Pin-560094 (India)",0.44999999999999996,0.0077653149266609135
+1023.0,Kodigehalli,"60 Feet Road, D Type Quarters, UAS Campus, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)",0.44999999999999996,0.0077653149266609135
+351.0,K.S. Layout,"Subramanyapura Main Road, Muniswamy Naidu Layout, Uttarahalli, Bengaluru, Karnataka. Pin-560061 (India)",0.44999999999999996,0.0077653149266609135
+883.0,Wilson Garden,"1st Main Road, NIMHANS, Bengaluru, Karnataka. Pin-560029 (India)",0.44999999999999996,0.0077653149266609135
+360.0,K.R. Pura,"MBT Road, Jai Bhuvaneshwari Layout, KR Puram, Bengaluru, Karnataka. Pin-560036 (India)",0.44999999999999996,0.0077653149266609135
+1008.0,Mahadevapura,"FCI Main Road, Muneshwara Layout, Kadugodi, Bengaluru, Karnataka. Pin-560067 (India)",0.44999999999999996,0.0077653149266609135
+374.0,Whitefield,"Sarjapura Main Road, Suncity Gloria, Carmelaram, Bengaluru, Karnataka. Pin-560035 (India)",0.44999999999999996,0.0077653149266609135
+1445.0,Electronic City,"Road Number 1, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",0.44999999999999996,0.0077653149266609135
+1391.0,Mahadevapura,"Bimal Maruti Show Room, 60/2, Whitefield Road, Garudachar Palya, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560048, India",0.44999999999999996,0.0077653149266609135
+310.0,Devanahalli Airport,"Devanahalli Bypass, Sri Kanakadasa Circle, Devanahalli, Karnataka. Pin-562110 (India)",0.44999999999999996,0.0077653149266609135
+1358.0,Byatarayanapura,"2nd Cross Road, Thigalarapalya, Nayandahalli, Bengaluru, Karnataka. Pin-560039 (India)",0.44999999999999996,0.0077653149266609135
+303.0,Jayanagara,"38th Cross Road, Block 5, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)",0.44999999999999996,0.0077653149266609135
+401.0,Yelahanka,"Thindlu Main Road, Thindlu, Bengaluru, Karnataka. Pin-560097 (India)",0.44999999999999996,0.0077653149266609135
+425.0,Vijayanagara,"1st A Main Road, Binny Layout, Vijaya Nagar Stage 2, Bengaluru, Karnataka. Pin-560040 (India)",0.44999999999999996,0.0077653149266609135
+426.0,Rajajinagar,"100 Feet Road, Kanteerava Studio Circle, Bengaluru, Karnataka. Pin-560096 (India)",0.44999999999999996,0.0077653149266609135
+1344.0,Hebbala,"Dasarahalli Main Road, M Venkategowdara Layout, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",0.44999999999999996,0.0077653149266609135
+432.0,Madiwala,"Begur Main Road, Krishna Reddy Layout, Hongasandra, Bengaluru, Karnataka. Pin-560068 (India)",0.44999999999999996,0.0077653149266609135
+961.0,Shivajinagar,"Compensation Road, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)",0.44999999999999996,0.0077653149266609135
+823.0,HSR Layout,"13th Main Road, The Metropolitan Cooperative Housing Society, Sector 4, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",0.44999999999999996,0.0077653149266609135
+270.0,Byatarayanapura,"4th Cross Road, Jyothi Nagar, Chandra Layout Stage 1, Bengaluru, Karnataka. Pin-560072 (India)",0.44999999999999996,0.0077653149266609135
+195.0,Sheshadripuram,"3rd Main Road, Block 4N, Ramachandrapuram, Bengaluru, Karnataka. Pin-560021 (India)",0.44999999999999996,0.0077653149266609135
+1242.0,Yelahanka,"2nd Main Road, Kaveri Layout, Sector 3, Dr. Shivaram Karanth Layout, Bengaluru North City Corporation, Bengaluru, Yelahanka taluku, Bengaluru Urban, Karnataka, 560097, India",0.44999999999999996,0.0077653149266609135
+221.0,Whitefield,"Vijayanagar Road, Inner Valley, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",0.44999999999999996,0.0077653149266609135
+126.0,Yelahanka,"Bagaluru Main Road, Krishna Shelton, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)",0.44999999999999996,0.0077653149266609135
+700.0,Chikkajala,"Unnamed Road, Yadiyuru, Bengaluru, Karnataka. Pin-562149 (India)",0.44999999999999996,0.0077653149266609135
+706.0,Ashok Nagar,"Lower Agaram Road, Sannenahalli, Viveka Nagar, Bengaluru, Karnataka. Pin-560047 (India)",0.44999999999999996,0.0077653149266609135
+120.0,High ground,"Dr MH Ambarish Road, Madhavanagar Extension, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.44999999999999996,0.0077653149266609135
+1144.0,Whitefield,"Borewell Road, Dr BR Ambedkar Circle, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",0.44999999999999996,0.0077653149266609135
+1141.0,Electronic City,"Hosur Road, Pride Gateway, Phase 2, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)",0.44999999999999996,0.0077653149266609135
+1140.0,Chikkajala,"SH 104, Kadayarapanahalli, Bengaluru, Karnataka. Pin-562149 (India)",0.44999999999999996,0.0077653149266609135
+1128.0,Chikkajala,"SH 104, Mylanahalli, Bengaluru, Karnataka. Pin-562149 (India)",0.44999999999999996,0.0077653149266609135
+1066.0,Basavanagudi,"Sri DV Gundappa Road, Shopper Junction, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)",0.44999999999999996,0.0077653149266609135
+108.0,High ground,"16th Main Road, Police Quarters, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.44999999999999996,0.0077653149266609135
+859.0,Yelahanka,"Atturu Main Road, Escorts Layout, Attur Layout, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)",0.44999999999999996,0.0077653149266609135
+801.0,Chikkajala,"Telecom Layout Road, Phase 2A, After The Rain, Bettahalasur, Bengaluru, Karnataka. Pin-562157 (India)",0.44999999999999996,0.0077653149266609135
+1582.0,Basavanagudi,"Model House Street, VP Layout, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)",0.44999999999999996,0.0077653149266609135
+946.0,Basavanagudi,"RV Road, Parasmani Regency, Block 2, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)",0.44999999999999996,0.0077653149266609135
+66.0,Pulikeshinagar(F.Town),"St John Road, Field Marshal Manekshaw Enclave, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)",0.44999999999999996,0.0077653149266609135
+753.0,Yelahanka,"Doddaballapur Main Road, NCC Urban Mayfair, Anantapura, Bengaluru, Karnataka. Pin-560064 (India)",0.44999999999999996,0.0077653149266609135
+46.0,Whitefield,"Pattandur Agrahara Road, Vertex Tech Park, EPIP Zone, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",0.44999999999999996,0.0077653149266609135
+27.0,HAL Old Airport,"Suranjan Das Road, Officers Quarters, Airport Area, Bengaluru, Karnataka. Pin-560017 (India)",0.44999999999999996,0.0077653149266609135
+17.0,Jayanagara,"36th Cross Road, Block 4T, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)",0.44999999999999996,0.0077653149266609135
+1085.0,High ground,"North Park Road, Shivananda Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.44999999999999996,0.0077653149266609135
+845.0,City Market,"AS Char Main Road, Telagupet, Bengaluru, Karnataka. Pin-560002 (India)",0.44999999999999996,0.0077653149266609135
+129.0,J.P. Nagar,"5th Cross Road, TMC Layout, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560078 (India)",0.44999999999999996,0.0077653149266609135
+1159.0,Mico Layout,"Thavarekere Main Road, Ramappa Layout, Tavarekere, Bengaluru, Karnataka. Pin-560029 (India)",0.44999999999999996,0.0077653149266609135
+140.0,Madiwala,"Outer Ring Road, 29th BTM Road Junction, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)",0.44999999999999996,0.0077653149266609135
+1549.0,J.P. Nagar,"5th Main Road, Govinda Reddy Layout, Arakere, Bengaluru, Karnataka. Pin-560076 (India)",0.44999999999999996,0.0077653149266609135
+547.0,Yelahanka,"Yelahanka New Town Main Road, Sector B, Yelahanka New Town, Bengaluru, Karnataka. Pin-560064 (India)",0.44999999999999996,0.0077653149266609135
+778.0,Adugodi,"Sarjapur Marathahalli Road, Jakkasandra, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",0.44999999999999996,0.0077653149266609135
+1230.0,Kodigehalli,"Dr Rajgopal Road, Hoysala Apartment, Naidu Layout, Sanjay Nagar, Bengaluru, Karnataka. Pin-560094 (India)",0.44999999999999996,0.0077653149266609135
+567.0,V.V.Puram (C.Pet),"Sajjan Rao Road, VV Puram, Bengaluru, Karnataka. Pin-560004 (India)",0.44999999999999996,0.0077653149266609135
+1223.0,Sadashivanagar,"15th Main Road, RMV Extension, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560080 (India)",0.44999999999999996,0.0077653149266609135
+892.0,Byatarayanapura,"Dr Rajkumar Puniya Bhoomi Road, New Income Tax Layout, Chandra Layout Stage 1, Bengaluru, Karnataka. Pin-560072 (India)",0.44999999999999996,0.0077653149266609135
+578.0,Banashankari,"9th Main Road, Siddanna Layout, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560070 (India)",0.44999999999999996,0.0077653149266609135
+952.0,Jeevanbheemanagar,"Jeevan Bhima Nagar Main Road, Sector 11, LIC Colony, Jeevan Bima Nagar, Bengaluru, Karnataka. Pin-560075 (India)",0.44999999999999996,0.0077653149266609135
+1212.0,Chikkajala,"Unnamed Road, Begur Chikkanahalli, Bengaluru, Karnataka. Pin-562149 (India)",0.44999999999999996,0.0077653149266609135
+1210.0,Hennuru,"Byrathi Main Road, Atel Munishamappa Garden, Narayanpura, Kothnur Narayanapura, Bengaluru, Karnataka. Pin-560077 (India)",0.44999999999999996,0.0077653149266609135
+608.0,Jalahalli,"H Mount Estate Road, Prestige Kensington Gardens, HMT Industrial Estate, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)",0.44999999999999996,0.0077653149266609135
+180.0,Whitefield,"SH 35, HBK Layout, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",0.44999999999999996,0.0077653149266609135
+633.0,Kamakshipalya,"Muddayanapalya Road, Gaddekhani, Anjana Nagar, Herohalli, Bengaluru, Karnataka. Pin-560091 (India)",0.44999999999999996,0.0077653149266609135
+1053.0,J.P. Nagar,"18th Main Road, JP Nagar Phase 2, Bengaluru, Karnataka. Pin-560078 (India)",0.44999999999999996,0.0077653149266609135
+674.0,K.R. Pura,"MBT Road, Salarpuria Sattva East Crest, Konadasapura, Bengaluru, Karnataka. Pin-560049 (India)",0.44999999999999996,0.0077653149266609135
+1179.0,Whitefield,"Vibgyor High School Road, Samhita Rainbow MTB Apartment, Green Garden Layout, Munnekolala, Bengaluru, Karnataka. Pin-560037 (India)",0.44999999999999996,0.0077653149266609135
+675.0,Banaswadi,"Kammanahalli Main Road, Seva Nagar, New Lingarajapuram, Bengaluru, Karnataka. Pin-560033 (India)",0.44999999999999996,0.0077653149266609135
+1171.0,Jnanabharathi,"2nd B Cross Road, Block 7, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",0.44999999999999996,0.0077653149266609135
+677.0,Yelahanka,"Doddabommasandra Main Road, Peta Siddappa Circle, Dodda Bommasandra, Bengaluru, Karnataka. Pin-560097 (India)",0.44999999999999996,0.0077653149266609135
+894.0,K.R. Pura,"Basavanapura Road, KR Puram, Bengaluru, Karnataka. Pin-560036 (India)",0.44999999999999996,0.0077653149266609135
+181.0,Whitefield,"Varthur Main Road, Vahe Imperial Gardens, Gunjur, Bengaluru, Karnataka. Pin-560087 (India)",0.44999999999999996,0.0077653149266609135
+1447.0,Mahadevapura,"Whitefield Road, Skyview, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",0.375,0.0064710957722174285
+1530.0,Magadi Road,"80 Feet Ring Road, Gubbanna Industrial Estate, Block 6, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",0.375,0.0064710957722174285
+1312.0,Bellandur,"Sarjapura Main Road, RGA Tech Park, Hadosiddapura, Bengaluru, Karnataka. Pin-560035 (India)",0.375,0.0064710957722174285
+1322.0,Kodigehalli,"Kodigehalli Road, Pillappa Layout, Kodigehalli, Bengaluru, Karnataka. Pin-560097 (India)",0.375,0.0064710957722174285
+671.0,Jalahalli,"HMT Main Road, Kempe Gowda HMT Estate, Jalahalli Village, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)",0.375,0.0064710957722174285
+352.0,Jeevanbheemanagar,"Pusa Thippasandra Main Road, Nada Prabhu Kempegowda Circle, New Thippasandra, Bengaluru, Karnataka. Pin-560075 (India)",0.375,0.0064710957722174285
+1272.0,Whitefield,"Vijayanagar Road, The Grove, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)",0.375,0.0064710957722174285
+1256.0,Mahadevapura,"Kadugodi Railway Bridge, Kadugodi, Bengaluru, Karnataka. Pin-560067 (India)",0.375,0.0064710957722174285
+1151.0,Banaswadi,"TC Palya Main Road, Ushodaya S Square, M Vishveshvaraiah Nagar, Horamavu, Bengaluru, Karnataka. Pin-560113 (India)",0.375,0.0064710957722174285
+441.0,R.T. Nagar,"VP Deenadayalu Naidu Road, Binny Crescent Apartments, Benson Town, Bengaluru, Karnataka. Pin-560046 (India)",0.375,0.0064710957722174285
+540.0,Chikkajala,"Unnamed Road, Jagajothi Nagar, Muthugada Halli, Bengaluru, Karnataka. Pin-562157 (India)",0.375,0.0064710957722174285
+693.0,Jnanabharathi,"1st Main Road, Puttaiah Block, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)",0.375,0.0064710957722174285
+1605.0,City Market,"KR Main Road, City Market Circle, Bengaluru, Karnataka. Pin-560002 (India)",0.36,0.006212251941328731
+1301.0,Kamakshipalya,"Magadi Main Road, Janapriya Bharat Enclave, Sri Venkateshwara Industrial Estate, Sunkadakatte, Bengaluru, Karnataka. Pin-560091 (India)",0.36,0.006212251941328731
+1494.0,HSR Layout,"Outer Ring Road, Heavie Halcyon, Agara, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",0.36,0.006212251941328731
+691.0,Pulikeshinagar(F.Town),"Pottery Road, Pottery Road CHS, Cooke Town, Bengaluru, Karnataka. Pin-560005 (India)",0.36,0.006212251941328731
+1089.0,Jayanagara,"East End A Main Road, NAL Layout, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)",0.36,0.006212251941328731
+1045.0,Adugodi,"Domlur Inner Ring Road, BDA Junction, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",0.36,0.006212251941328731
+737.0,Pulikeshinagar(F.Town),"Clark Road, Richards Town, Bengaluru, Karnataka. Pin-560005 (India)",0.3,0.005176876617773943
+1543.0,Kodigehalli,"10th Cross Road, Sapthagiri Layout, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)",0.3,0.005176876617773943
+1145.0,Chikkajala,"Bengaluru Bellary Road, Meenakunte, Bengaluru, Karnataka. Pin-562157 (India)",0.3,0.005176876617773943
+1126.0,Kodigehalli,"1st Main Road, Training Quarters, Armane Nagar, Bengaluru, Karnataka. Pin-560094 (India)",0.3,0.005176876617773943
+689.0,Shivajinagar,"St John Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)",0.3,0.005176876617773943
+864.0,Malleshwaram,"Da Ra Bendre Road, Kirloskar Foundry, Yeshwanthpur Suburb Stage 2, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",0.3,0.005176876617773943
+676.0,Pulikeshinagar(F.Town),"Davis Road, Lazar Layout, Cooke Town, Bengaluru, Karnataka. Pin-560005 (India)",0.3,0.005176876617773943
+732.0,Banaswadi,"4th Cross Road, Jala, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)",0.3,0.005176876617773943
+879.0,HSR Layout,"9th Main Road, Sai Nandana Residency, Teachers Colony, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",0.3,0.005176876617773943
+90.0,Hebbala,"Anand Nagar Main Road, AGS Layout, Anand Nagar, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)",0.3,0.005176876617773943
+1102.0,Sadashivanagar,"10th Main Road, Achaiah Chetty Layout, RMV Extension, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560080 (India)",0.3,0.005176876617773943
+982.0,Hennuru,"Thanisandra Main Road, Arkavathy Layout 14th Block, Thanisandra, Bengaluru, Karnataka. Pin-560077 (India)",0.3,0.005176876617773943
+1101.0,Peenya,"4th Cross Road, Udupa Garden, Jalahalli West, Bengaluru, Karnataka. Pin-560015 (India)",0.3,0.005176876617773943
+1583.0,Adugodi,"Hosur Road, ML Colony, Adugodi, Bengaluru, Karnataka. Pin-560030 (India)",0.3,0.005176876617773943
+855.0,Mahadevapura,"Outer Ring Road, Chinappa Layout, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)",0.3,0.005176876617773943
+901.0,Banaswadi,"4th G Main Road, Block 2, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka. Pin-560043 (India)",0.3,0.005176876617773943
+1594.0,Ashok Nagar,"Hosur Road, Sir Mirza Ismail Nagar, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)",0.3,0.005176876617773943
+763.0,Chikkajala,"Bengaluru Bellary Road, Farah Seven, Sri Rajarajeshwari Nagar, Hunasamaranahalli, Bengaluru, Karnataka. Pin-562157 (India)",0.3,0.005176876617773943
+941.0,Mahadevapura,"Outer Ring Road, Zonasha Saphire, Doddanekundi, Bengaluru, Karnataka. Pin-560037 (India)",0.3,0.005176876617773943
+776.0,Whitefield,"HAL Airport Road, Parimala Sunridge, Siddapura, Bengaluru, Karnataka. Pin-560066 (India)",0.3,0.005176876617773943
+1067.0,Shivajinagar,"Main Guard Cross Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.3,0.005176876617773943
+1047.0,Madiwala,"1st Main Road, Stage 1, Madivala, Bengaluru, Karnataka. Pin-560068 (India)",0.3,0.005176876617773943
+1636.0,Yelahanka,"Jakkur Main Road, Ganapathi Layout, Nehru Nagar, Bengaluru, Karnataka. Pin-560064 (India)",0.3,0.005176876617773943
+1044.0,Hulimavu,"Bannerghatta Main Road, Vijay Shree Layout, Hulimavu, Bengaluru, Karnataka. Pin-560076 (India)",0.3,0.005176876617773943
+621.0,Chikkajala,"Bengaluru Bellary Road, Hunasamaranahalli, Bengaluru, Karnataka. Pin-562157 (India)",0.3,0.005176876617773943
+198.0,HAL Old Airport,"A Main Road, Doddanekundi Circle, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)",0.3,0.005176876617773943
+278.0,J.P. Nagar,"Dr Rajkumar Puniya Bhoomi Road, Saraki Garden, JP Nagar Phase 6, Bengaluru, Karnataka. Pin-560078 (India)",0.3,0.005176876617773943
+496.0,HAL Old Airport,"Marathahalli Bridge Service Road, Purva Riviera, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)",0.3,0.005176876617773943
+1432.0,Hennuru,"Thanisandra Main Road, Aswath Nagar Circle, Thanisandra, Bengaluru, Karnataka. Pin-560077 (India)",0.3,0.005176876617773943
+1403.0,Yelahanka,"Bengaluru Bellary Road, Ecopolis, Yelahanka, Bengaluru, Karnataka. Pin-560063 (India)",0.3,0.005176876617773943
+385.0,Banaswadi,"MBT Road, Vedantha, Kamalamma Layout, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)",0.3,0.005176876617773943
+396.0,Madiwala,"Hosur Road, Salarpuria Tower, Adugodi, Bengaluru, Karnataka. Pin-560095 (India)",0.3,0.005176876617773943
+399.0,Magadi Road,"Chord Road, Pride Pavilion Stage 1 Phase 6, Sri Mahaganapathi Nagar, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",0.3,0.005176876617773943
+1357.0,Jeevanbheemanagar,"Venugopal Swamy Temple Street, Konena Agrahara, Bengaluru, Karnataka. Pin-560017 (India)",0.3,0.005176876617773943
+1463.0,HAL Old Airport,"Patel Public School Road, Vaswani Melrose, Chandana, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)",0.3,0.005176876617773943
+1469.0,Banaswadi,"MBT Road, Ajmera Arista, Gopal Reddy Layout, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)",0.3,0.005176876617773943
+292.0,Adugodi,"1st Cross Road, St Johns National Academy of Health Sciences, John Nagar, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)",0.3,0.005176876617773943
+1482.0,Adugodi,"New Mico Road, Adugodi Junction, Adugodi, Bengaluru, Karnataka. Pin-560030 (India)",0.3,0.005176876617773943
+1491.0,HSR Layout,"Outer Ring Road, Mantri Sarovar, Sector 4, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",0.3,0.005176876617773943
+455.0,Cubbon Park,"Queens Road, Coffee Board Junction, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.3,0.005176876617773943
+927.0,HAL Old Airport,"Kadubeesanahalli Underpass, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)",0.3,0.005176876617773943
+1274.0,Kamakshipalya,"Magadi Main Road, Ganesh Farm, Anjana Nagar, Herohalli, Bengaluru, Karnataka. Pin-560091 (India)",0.3,0.005176876617773943
+889.0,HSR Layout,"Electronics City Flyover, Narasimha Reddy Layout, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)",0.3,0.005176876617773943
+556.0,K.R. Pura,"MBT Road, ITI Data Center, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)",0.3,0.005176876617773943
+1404.0,Vijayanagara,"Padmabhushan Dr MC Modi Road, Phase 1, Manjunatha Nagar, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)",0.3,0.005176876617773943
+550.0,Hebbala,"Bellary Road, Esteem Mall, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",0.3,0.005176876617773943
+890.0,Ashok Nagar,"Domlur Inner Ring Road, Srinivagilu Junction, Agaram, Bengaluru, Karnataka. Pin-560007 (India)",0.3,0.005176876617773943
+1251.0,Hennuru,"Hennur Main Road, Kumar Prospera, Geddalahalli, Bengaluru, Karnataka. Pin-560077 (India)",0.3,0.005176876617773943
+224.0,Kamakshipalya,"Magadi Main Road, Janapriya Bharat Enclave, Sri Venkateshwara Industrial Estate, Sunkadakatte, Bengaluru, Karnataka. Pin-560091 (India)",0.3,0.005176876617773943
+1513.0,Yelahanka,"Allalasandra Main Road, RMZ Galleria Residences, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)",0.3,0.005176876617773943
+1507.0,Ashok Nagar,"Mahatma Gandhi Road, Prestige Meridian, Ashok Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.3,0.005176876617773943
+235.0,Jnanabharathi,"Mysore Road, Grand Gandharva, Rajarajeshwari Nagar, Bengaluru, Karnataka. Pin-560098 (India)",0.3,0.005176876617773943
+286.0,Yelahanka,"1st Main Road, Century Horizon, Yashoda Nagar, Yelahanka, Bengaluru, Karnataka. Pin-560065 (India)",0.25,0.004314063848144953
+984.0,Ashok Nagar,"Hosur Road, Gajendra Nagar, Nilsandra, Bengaluru, Karnataka. Pin-560030 (India)",0.25,0.004314063848144953
+279.0,Mico Layout,"Bannerghatta Main Road, Sagar Apollo Junction, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)",0.25,0.004314063848144953
+530.0,J.P. Nagar,"24th Main Road, Jeevan Surabhi Flats, Jeevan Sathi Colony, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560078 (India)",0.25,0.004314063848144953
+1488.0,Shivajinagar,"Dispensary Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)",0.25,0.004314063848144953
+738.0,Ashok Nagar,"Field Marshal KM Cariappa Road, Cash Pharmacy Junction, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)",0.25,0.004314063848144953
+622.0,Hebbala,"5th Cross Road, Prestige Misty Waters, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",0.25,0.004314063848144953
+573.0,Yeshwanthpura,"Canara Union Road, Embassy Heritage Apartment, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)",0.25,0.004314063848144953
