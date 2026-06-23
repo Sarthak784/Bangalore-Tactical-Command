@@ -85,13 +85,13 @@ def load_system():
     return model, A_tensor, df_nodes, G, df_hist, h_vector
 
 model, A_tensor, df_nodes, G_base, df_hist, h_vector = load_system()
+location_options = [f"{str(row['address']).split(',')[0][:35]} (ID: {idx})" for idx, row in df_nodes.iterrows()]
 
 # --- 3. DISPATCH & DIVERSION LOGIC ---
 def calculate_ambient_patrols(df_hist, max_amb_off, max_amb_bar):
     plan = []
     off_dep, bar_dep = 0, 0
-    if df_hist.empty or 'H_Score' not in df_hist.columns:
-        return plan, off_dep, bar_dep
+    if df_hist.empty or 'H_Score' not in df_hist.columns: return plan, off_dep, bar_dep
         
     top_blackspots = df_hist.sort_values('H_Score', ascending=False)
     for idx, row in top_blackspots.iterrows():
@@ -101,11 +101,7 @@ def calculate_ambient_patrols(df_hist, max_amb_off, max_amb_bar):
         a_off = min(1, max_amb_off - off_dep)
         a_bar = min(0, max_amb_bar - bar_dep) 
         if a_off > 0 or a_bar > 0:
-            plan.append({
-                "Location": f"{row['police_station']} - {str(row['address'])[:30]}",
-                "Historical Risk": row['H_Score'],
-                "Officers": a_off, "Barricades": a_bar
-            })
+            plan.append({"Location": f"{row['police_station']} - {str(row['address'])[:30]}", "Historical Risk": row['H_Score'], "Officers": a_off, "Barricades": a_bar})
             off_dep += a_off
             bar_dep += a_bar
     return plan, off_dep, bar_dep
@@ -136,12 +132,7 @@ def recommend_resources(predicted_risk, df_nodes, max_off, max_bar, active_event
             address_full = str(row['address'])
             
             neighbors = list(G.neighbors(idx))
-            div_roads = []
-            for n in neighbors:
-                if n not in gz_nodes:
-                    clean_street = str(df_nodes.iloc[n]['address']).split(',')[0].strip()
-                    div_roads.append(clean_street)
-            
+            div_roads = [str(df_nodes.iloc[n]['address']).split(',')[0].strip() for n in neighbors if n not in gz_nodes]
             unique_divs = list(set(div_roads))[:2]
             div_text = ", ".join(unique_divs) if unique_divs else "Nearest clear cross-street"
             
@@ -154,66 +145,27 @@ def recommend_resources(predicted_risk, df_nodes, max_off, max_bar, active_event
             routing_text = f"🚧 **{block_verb}:** {address_full}\n\n↪️ **Suggested Diversion:** {div_text}"
             
             explainers.append({"station": ps_name, "action": action_text, "routing": routing_text, "risk": row['risk']})
-            
-            plan.append({
-                "Location": f"{ps_name} - {address_full[:30]}...",
-                "Cascade Risk": row['risk'],
-                "Officers": a_off, "Barricades": a_bar
-            })
+            plan.append({"Location": f"{ps_name} - {address_full[:30]}...", "Cascade Risk": row['risk'], "Officers": a_off, "Barricades": a_bar})
             off_deployed += a_off
             bar_deployed += a_bar
             
     return plan, explainers, off_deployed, bar_deployed
 
-# --- 4. TOP APP BAR (Title + Dialogs) ---
+# --- 4. TOP APP BAR (Structured Layout) ---
 current_time = datetime.datetime.now()
-col_title, col_log, col_settings = st.columns([8, 1, 1])
+
+# Split top bar into Title (left) and Command Block (right)
+col_title, col_controls = st.columns([7.5, 2.5])
 
 with col_title:
-    st.markdown(f"<h2>Bangalore Tactical Command <span style='font-size: 1rem; color: gray;'>| {current_time.strftime('%I:%M %p - %A, %b %d')}</span></h2>", unsafe_allow_html=True)
+    st.markdown(f"<h2>Bangalore Tactical Command <br><span style='font-size: 1.2rem; color: gray;'>{current_time.strftime('%I:%M %p - %A, %b %d')}</span></h2>", unsafe_allow_html=True)
 
-with col_settings:
-    with st.popover("⚙️ Settings"):
-        st.markdown("**City Context (Temporal Baseline)**")
-        city_context = st.selectbox("Select Current Condition", ["Normal Operations", "Heavy Rain / Waterlogging", "Major Festival / Holiday"])
-        
-        baseline_risk = 0.0
-        if city_context == "Heavy Rain / Waterlogging": baseline_risk = 0.15
-        elif city_context == "Major Festival / Holiday": baseline_risk = 0.10
-        
-        st.divider()
-        st.markdown("**Armory Limits**")
-        off_input = st.text_input("Officers Available", value="30")
-        bar_input = st.text_input("Barricades Available", value="15")
-        try:
-            max_officers, max_barricades = int(off_input), int(bar_input)
-        except ValueError:
-            max_officers, max_barricades = 30, 15
-            
-        st.divider()
-        st.markdown("**Data Management**")
-        if st.session_state.active_events:
-            export_df = pd.DataFrame(st.session_state.active_events).rename(columns={
-                "id": "Event_ID", "node_id": "Node_ID", "location_name": "Location", 
-                "type": "Event_Type", "desc": "Description", "magnitude": "STGNN_Magnitude", 
-                "closure": "Road_Closure", "scheduled_time": "Timestamp"
-            })
-            st.download_button(
-                label="📥 Export Daily Event Log (CSV)",
-                data=export_df.to_csv(index=False).encode('utf-8'),
-                file_name=f"Bangalore_Traffic_Log_{current_time.strftime('%Y%m%d')}.csv",
-                mime="text/csv", use_container_width=True
-            )
-        else:
-            st.info("No events logged to export.")
-
-with col_log:
-    with st.popover("🚨 Log Event"):
+with col_controls:
+    # 1. TOP ROW: Big Log Event Button
+    with st.popover("🚨 Log Event", use_container_width=True):
         ev_type = st.selectbox("Event Type", ["Sudden Breakdown", "Planned Event"])
         ev_severity = st.selectbox("Severity", ["Low", "Medium", "High"])
-        
-        location_options = [f"{str(row['address']).split(',')[0][:35]} (ID: {idx})" for idx, row in df_nodes.iterrows()]
-        loc_choice = st.selectbox("Location (Ground Zero)", options=location_options, index=45)
+        loc_choice = st.selectbox("Location (Type to search)", options=location_options, index=45)
         ev_node = location_options.index(loc_choice)
         ev_closure = st.checkbox("Requires Road Closure", value=True)
         
@@ -225,14 +177,12 @@ with col_log:
             scheduled_dt = current_time
             
         ev_desc = st.text_input("Notes", f"{ev_severity} severity incident")
-        
-        if st.button("Broadcast Incident", type="primary"):
+        if st.button("Broadcast Incident", type="primary", use_container_width=True):
             if ev_type == "Planned Event" and scheduled_dt < (current_time - datetime.timedelta(minutes=1)):
                 st.error("⏳ Invalid Time: Cannot schedule an event in the past.")
             else:
                 mag = 0.8 if ev_severity == "High" else 0.55 if ev_severity == "Medium" else 0.25
                 if ev_closure: mag = min(mag * 1.2, 1.0)
-                
                 st.session_state.active_events.append({
                     "id": len(st.session_state.active_events) + int(time.time()), 
                     "node_id": ev_node, "location_name": loc_choice.split(' (ID:')[0], 
@@ -240,7 +190,38 @@ with col_log:
                     "closure": 1.0 if ev_closure else 0.0, "scheduled_time": scheduled_dt,
                     "is_active_now": scheduled_dt <= datetime.datetime.now()
                 })
+                st.toast(f"✅ {ev_type} logged successfully! AI cascading risk...", icon="✅")
+                time.sleep(0.6)
                 st.rerun()
+
+    # 2. BOTTOM ROW: Split evenly between Ops and Settings
+    sub_col_ops, sub_col_set = st.columns(2)
+    
+    with sub_col_ops:
+        with st.popover("🚑 Ops", use_container_width=True):
+            ops_type = st.radio("Dispatch Unit", ["🚑 Ambulance", "🚒 Fire Engine"], horizontal=True)
+            ops_loc = st.selectbox("Search Drop Zone (Type to search)", options=location_options, key="ops_loc")
+            ops_note = st.text_input("Situation Notes", placeholder="E.g., 2 casualties, trapped.")
+            if st.button("Dispatch Unit", type="primary", use_container_width=True):
+                agency = "Nearest Hospital" if "Ambulance" in ops_type else "Nearest Fire Station"
+                st.toast(f"🚨 {agency} broadcasted to {ops_loc.split(' (ID:')[0]} successfully!", icon="✅")
+                
+    with sub_col_set:
+        with st.popover("⚙️ Settings", use_container_width=True):
+            st.markdown("**City Context**")
+            city_context = st.selectbox("Select Current Condition", ["Normal Operations", "Heavy Rain / Waterlogging", "Major Festival / Holiday"], label_visibility="collapsed")
+            baseline_risk = 0.15 if "Rain" in city_context else 0.10 if "Festival" in city_context else 0.0
+            
+            st.markdown("**Armory Limits**")
+            max_officers = int(st.text_input("Officers Available", value="30"))
+            max_barricades = int(st.text_input("Barricades Available", value="15"))
+            
+            st.markdown("**Data Management**")
+            if st.session_state.active_events:
+                export_df = pd.DataFrame(st.session_state.active_events)
+                st.download_button("📥 Export Log (CSV)", data=export_df.to_csv(index=False).encode('utf-8'), file_name=f"Traffic_Log_{current_time.strftime('%Y%m%d')}.csv", mime="text/csv", use_container_width=True)
+            else:
+                st.info("No events to export.")
 
 st.divider()
 
@@ -312,18 +293,19 @@ with col_map:
     ))
 
 with col_resolve:
-    if live_events:
-        st.markdown("### 🚦 Active Incidents Command")
-        for ev in live_events:
-            with st.container(border=True):
-                st.write(f"**{ev['location_name']}** | {ev['type']}")
-                st.caption(ev['desc'])
-                if st.button("✅ Resolve & Unblock", key=f"res_{ev['id']}", use_container_width=True):
-                    st.session_state.active_events = [e for e in st.session_state.active_events if e['id'] != ev['id']]
-                    st.rerun()
-    else:
-        st.markdown("### 🚦 Active Incidents Command")
-        st.success("Network is clear. Displaying baseline historical traffic.")
+    with st.expander("🚦 Active Incidents Command", expanded=True):
+        if live_events:
+            for ev in live_events:
+                with st.container(border=True):
+                    st.write(f"**{ev['location_name']}** | {ev['type']}")
+                    st.caption(ev['desc'])
+                    if st.button("✅ Resolve & Unblock", key=f"res_{ev['id']}", use_container_width=True):
+                        st.session_state.active_events = [e for e in st.session_state.active_events if e['id'] != ev['id']]
+                        st.toast("✅ Incident resolved. Grid resetting.", icon="✅")
+                        time.sleep(0.5)
+                        st.rerun()
+        else:
+            st.success("Network is clear. Displaying baseline historical traffic.")
 
 st.divider()
 
@@ -348,18 +330,19 @@ with col_now:
             
         st.markdown("### Active Dispatch Orders")
         if explainers_live:
-            # COLLAPSABLE LIST UI UPGRADE
             top_order = explainers_live[0]
             with st.expander(f"🚨 Priority Dispatch: {top_order['station']} PS (Risk: {top_order['risk']:.1%})", expanded=True):
                 st.markdown(top_order['action'])
                 st.markdown(top_order['routing'])
+                if st.button("📞 Call PS", key="call_live_top"): st.toast(f"Calling {top_order['station']} PS...", icon="📞")
                 
             if len(explainers_live) > 1:
                 with st.expander(f"📋 View All {len(explainers_live) - 1} Additional Dispatch Orders", expanded=False):
-                    for explainer in explainers_live[1:]:
+                    for i, explainer in enumerate(explainers_live[1:]):
                         st.markdown(f"**{explainer['station']} PS** (Risk: {explainer['risk']:.1%})")
                         st.markdown(explainer['action'])
                         st.markdown(explainer['routing'])
+                        if st.button("📞 Call PS", key=f"call_live_{i}"): st.toast(f"Calling {explainer['station']} PS...", icon="📞")
                         st.divider()
 
         if plan_live:
@@ -392,13 +375,15 @@ with col_fore:
                 with st.expander(f"🚧 Priority Pre-Plan: {top_fut_order['station']} PS", expanded=True):
                     st.markdown(top_fut_order['action'])
                     st.markdown(top_fut_order['routing'])
+                    if st.button("📞 Notify PS", key=f"call_fut_top_{ev['id']}"): st.toast(f"Alerted {top_fut_order['station']} PS.", icon="📞")
                     
                 if len(explainers_fut) > 1:
                     with st.expander(f"📋 View All {len(explainers_fut) - 1} Future Pre-Deployments", expanded=False):
-                        for explainer in explainers_fut[1:]:
+                        for i, explainer in enumerate(explainers_fut[1:]):
                             st.markdown(f"**{explainer['station']} PS**")
                             st.markdown(explainer['action'])
                             st.markdown(explainer['routing'])
+                            if st.button("📞 Notify PS", key=f"call_fut_{ev['id']}_{i}"): st.toast(f"Alerted {explainer['station']} PS.", icon="📞")
                             st.divider()
             
             if plan_fut:
